@@ -1,0 +1,99 @@
+Crop,Year,GVA_in_price
+Maize,2016,402114
+Maize,2017,309457
+Maize,2018,365527
+Maize,2019,373066
+Maize,2020,389059
+Maize,2021,387754
+Maize,2022,390303
+Sorghum,2016,274987
+Sorghum,2017,296000
+Sorghum,2018,298689
+Sorghum,2019,274485
+Sorghum,2020,280068
+Sorghum,2021,299996
+Sorghum,2022,302122
+Paddy rice,2016,1304073
+Paddy rice,2017,1633520
+Paddy rice,2018,1492544
+Paddy rice,2019,1718397
+Paddy rice,2020,1691890
+Paddy rice,2021,1799480
+Paddy rice,2022,1799248
+Wheat,2016,237012
+Wheat,2017,282068
+Wheat,2018,306210
+Wheat,2019,329278
+Wheat,2020,289132
+Wheat,2021,303795
+Wheat,2022,321878
+Cassava,2016,177496
+Cassava,2017,305145
+Cassava,2018,1377459
+Cassava,2019,1629739
+Cassava,2020,1642935
+Cassava,2021,1653322
+Cassava,2022,1648255
+Sweet potato,2016,808499
+Sweet potato,2017,784244
+Sweet potato,2018,899497
+Sweet potato,2019,890254
+Sweet potato,2020,932227
+Sweet potato,2021,903969
+Sweet potato,2022,950888
+Irish potato,2016,1230891
+Irish potato,2017,1713831
+Irish potato,2018,1444199
+Irish potato,2019,1700490
+Irish potato,2020,1544227
+Irish potato,2021,1551234
+Irish potato,2022,1425235
+Cooking banana,2016,185884
+Cooking banana,2017,199565
+Cooking banana,2018,3715919
+Cooking banana,2019,3623122
+Cooking banana,2020,3180479
+Cooking banana,2021,3089892
+Cooking banana,2022,3119720
+Dessert banana,2016,122667
+Dessert banana,2017,117981
+Dessert banana,2018,2163072
+Dessert banana,2019,1481763
+Dessert banana,2020,1162979
+Dessert banana,2021,1162822
+Dessert banana,2022,1132818
+Banana for beer,2016,108416
+Banana for beer,2017,102332
+Banana for beer,2018,1122757
+Banana for beer,2019,879672
+Banana for beer,2020,931198
+Banana for beer,2021,958935
+Banana for beer,2022,974510
+Beans,2016,401317
+Beans,2017,391605
+Beans,2018,410264
+Beans,2019,391121
+Beans,2020,318642
+Beans,2021,334063
+Beans,2022,333464
+Pea,2016,1086082
+Pea,2017,1060761
+Pea,2018,964611
+Pea,2019,1049992
+Pea,2020,1365309
+Pea,2021,1355647
+Pea,2022,1284987
+Groundnut,2016,177694
+Groundnut,2017,187362
+Groundnut,2018,221069
+Groundnut,2019,183218
+Groundnut,2020,187008
+Groundnut,2021,186608
+Groundnut,2022,185329
+Soybean,2016,55189
+Soybean,2017,52694
+Soybean,2018,48631
+Soybean,2019,61358
+Soybean,2020,57232
+Soybean,2021,55754
+Soybean,2022,60963

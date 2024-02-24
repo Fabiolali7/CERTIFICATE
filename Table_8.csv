@@ -1,0 +1,325 @@
+Fertilizer name ,Season ,source of fertilizers,percectages
+NPK 17-17-17,A,Government (MINAGRI/RAB/NAEB),1.49
+NPK 17-17-17,A, Agro dealers ,65.94
+NPK 17-17-17,A, NGOs/Companies ,26.18
+NPK 17-17-17,A, Market ,5.01
+NPK 17-17-17,A, Agriculture cooperative ,1.33
+NPK 17-17-17,A, Other source ,0.04
+NPK 20-10-10,A,Government (MINAGRI/RAB/NAEB),78.16
+NPK 20-10-10,A, Agro dealers ,2.65
+NPK 20-10-10,A, NGOs/Companies ,5.25
+NPK 20-10-10,A, Market ,4.21
+NPK 20-10-10,A, Agriculture cooperative ,9.73
+NPK 20-10-10,A, Other source ,0.00
+NPK 25-5-5,A,Government (MINAGRI/RAB/NAEB),29.89
+NPK 25-5-5,A, Agro dealers ,6.65
+NPK 25-5-5,A, NGOs/Companies ,18.71
+NPK 25-5-5,A, Market ,0.00
+NPK 25-5-5,A, Agriculture cooperative ,44.75
+NPK 25-5-5,A, Other source ,0.00
+NPK 22-6-12,A,Government (MINAGRI/RAB/NAEB),66.19
+NPK 22-6-12,A, Agro dealers ,21.27
+NPK 22-6-12,A, NGOs/Companies ,0.00
+NPK 22-6-12,A, Market ,0.00
+NPK 22-6-12,A, Agriculture cooperative ,12.54
+NPK 22-6-12,A, Other source ,0.00
+Other NPK,A,Government (MINAGRI/RAB/NAEB),0.60
+Other NPK,A, Agro dealers ,76.81
+Other NPK,A, NGOs/Companies ,22.59
+Other NPK,A, Market ,0.00
+Other NPK,A, Agriculture cooperative ,0.00
+Other NPK,A, Other source ,0.00
+Urea,A,Government (MINAGRI/RAB/NAEB),0.67
+Urea,A, Agro dealers ,38.86
+Urea,A, NGOs/Companies ,54.44
+Urea,A, Market ,4.45
+Urea,A, Agriculture cooperative ,1.30
+Urea,A, Other source ,0.28
+liquid urea (Mbonea M),A,Government (MINAGRI/RAB/NAEB),0.00
+liquid urea (Mbonea M),A, Agro dealers ,78.72
+liquid urea (Mbonea M),A, NGOs/Companies ,5.78
+liquid urea (Mbonea M),A, Market ,14.11
+liquid urea (Mbonea M),A, Agriculture cooperative ,1.39
+liquid urea (Mbonea M),A, Other source ,0.00
+DAP,A,Government (MINAGRI/RAB/NAEB),0.62
+DAP,A, Agro dealers ,36.67
+DAP,A, NGOs/Companies ,56.02
+DAP,A, Market ,4.97
+DAP,A, Agriculture cooperative ,1.44
+DAP,A, Other source ,0.28
+TSP,A,Government (MINAGRI/RAB/NAEB),0.00
+TSP,A, Agro dealers ,100.00
+TSP,A, NGOs/Companies ,0.00
+TSP,A, Market ,0.00
+TSP,A, Agriculture cooperative ,0.00
+TSP,A, Other source ,0.00
+KCL/MOP,A,Government (MINAGRI/RAB/NAEB),0.00
+KCL/MOP,A, Agro dealers ,99.71
+KCL/MOP,A, NGOs/Companies ,0.29
+KCL/MOP,A, Market ,0.00
+KCL/MOP,A, Agriculture cooperative ,0.00
+KCL/MOP,A, Other source ,0.00
+Omax,A,Government (MINAGRI/RAB/NAEB),0.00
+Omax,A, Agro dealers ,80.35
+Omax,A, NGOs/Companies ,14.99
+Omax,A, Market ,0.00
+Omax,A, Agriculture cooperative ,0.00
+Omax,A, Other source ,4.66
+Winner,A,Government (MINAGRI/RAB/NAEB),0.00
+Winner,A, Agro dealers ,99.53
+Winner,A, NGOs/Companies ,0.47
+Winner,A, Market ,0.00
+Winner,A, Agriculture cooperative ,0.00
+Winner,A, Other source ,0.00
+Yara Viva,A,Government (MINAGRI/RAB/NAEB),4.14
+Yara Viva,A, Agro dealers ,80.35
+Yara Viva,A, NGOs/Companies ,5.31
+Yara Viva,A, Market ,0.00
+Yara Viva,A, Agriculture cooperative ,10.21
+Yara Viva,A, Other source ,0.00
+Amidas,A,Government (MINAGRI/RAB/NAEB),0.11
+Amidas,A, Agro dealers ,27.89
+Amidas,A, NGOs/Companies ,69.78
+Amidas,A, Market ,0.00
+Amidas,A, Agriculture cooperative ,2.22
+Amidas,A, Other source ,0.00
+Cereal,A,Government (MINAGRI/RAB/NAEB),0.45
+Cereal,A, Agro dealers ,87.03
+Cereal,A, NGOs/Companies ,2.67
+Cereal,A, Market ,0.00
+Cereal,A, Agriculture cooperative ,9.85
+Cereal,A, Other source ,0.00
+Boaster,A,Government (MINAGRI/RAB/NAEB),0.00
+Boaster,A, Agro dealers ,33.47
+Boaster,A, NGOs/Companies ,66.53
+Boaster,A, Market ,0.00
+Boaster,A, Agriculture cooperative ,0.00
+Boaster,A, Other source ,0.00
+DI Grow,A,Government (MINAGRI/RAB/NAEB),0.00
+DI Grow,A, Agro dealers ,36.40
+DI Grow,A, NGOs/Companies ,56.44
+DI Grow,A, Market ,7.10
+DI Grow,A, Agriculture cooperative ,0.05
+DI Grow,A, Other source ,0.00
+Other type of fertilizer,A,Government (MINAGRI/RAB/NAEB),0.00
+Other type of fertilizer,A, Agro dealers ,80.27
+Other type of fertilizer,A, NGOs/Companies ,10.55
+Other type of fertilizer,A, Market ,0.74
+Other type of fertilizer,A, Agriculture cooperative ,8.43
+Other type of fertilizer,A, Other source ,0.00
+NPK 17-17-17,B,Government (MINAGRI/RAB/NAEB),1.35
+NPK 17-17-17,B, Agro dealers ,66.84
+NPK 17-17-17,B, NGOs/Companies ,19.44
+NPK 17-17-17,B, Market ,7.91
+NPK 17-17-17,B, Agriculture cooperative ,4.12
+NPK 17-17-17,B, Other source ,0.34
+NPK 20-10-10,B,Government (MINAGRI/RAB/NAEB),59.57
+NPK 20-10-10,B, Agro dealers ,17.02
+NPK 20-10-10,B, NGOs/Companies ,8.51
+NPK 20-10-10,B, Market ,0.00
+NPK 20-10-10,B, Agriculture cooperative ,10.64
+NPK 20-10-10,B, Other source ,4.26
+NPK 25-5-5,B,Government (MINAGRI/RAB/NAEB),30.77
+NPK 25-5-5,B, Agro dealers ,30.77
+NPK 25-5-5,B, NGOs/Companies ,0.00
+NPK 25-5-5,B, Market ,15.38
+NPK 25-5-5,B, Agriculture cooperative ,15.38
+NPK 25-5-5,B, Other source ,7.69
+NPK 22-6-12,B,Government (MINAGRI/RAB/NAEB),55.00
+NPK 22-6-12,B, Agro dealers ,22.50
+NPK 22-6-12,B, NGOs/Companies ,7.50
+NPK 22-6-12,B, Market ,0.00
+NPK 22-6-12,B, Agriculture cooperative ,15.00
+NPK 22-6-12,B, Other source ,0.00
+Other NPK,B,Government (MINAGRI/RAB/NAEB),2.90
+Other NPK,B, Agro dealers ,92.75
+Other NPK,B, NGOs/Companies ,0.00
+Other NPK,B, Market ,2.90
+Other NPK,B, Agriculture cooperative ,1.45
+Other NPK,B, Other source ,0.00
+Urea,B,Government (MINAGRI/RAB/NAEB),1.09
+Urea,B, Agro dealers ,53.64
+Urea,B, NGOs/Companies ,34.43
+Urea,B, Market ,7.32
+Urea,B, Agriculture cooperative ,2.95
+Urea,B, Other source ,0.57
+liquid urea (Mbonea M),B,Government (MINAGRI/RAB/NAEB),0.00
+liquid urea (Mbonea M),B, Agro dealers ,83.33
+liquid urea (Mbonea M),B, NGOs/Companies ,8.33
+liquid urea (Mbonea M),B, Market ,8.33
+liquid urea (Mbonea M),B, Agriculture cooperative ,0.00
+liquid urea (Mbonea M),B, Other source ,0.00
+DAP,B,Government (MINAGRI/RAB/NAEB),1.12
+DAP,B, Agro dealers ,47.86
+DAP,B, NGOs/Companies ,43.17
+DAP,B, Market ,5.85
+DAP,B, Agriculture cooperative ,1.76
+DAP,B, Other source ,0.24
+TSP,B,Government (MINAGRI/RAB/NAEB),0.00
+TSP,B, Agro dealers ,100.00
+TSP,B, NGOs/Companies ,0.00
+TSP,B, Market ,0.00
+TSP,B, Agriculture cooperative ,0.00
+TSP,B, Other source ,0.00
+KCL/MOP,B,Government (MINAGRI/RAB/NAEB),33.33
+KCL/MOP,B, Agro dealers ,50.00
+KCL/MOP,B, NGOs/Companies ,16.67
+KCL/MOP,B, Market ,0.00
+KCL/MOP,B, Agriculture cooperative ,0.00
+KCL/MOP,B, Other source ,0.00
+Omax,B,Government (MINAGRI/RAB/NAEB),0.00
+Omax,B, Agro dealers ,71.43
+Omax,B, NGOs/Companies ,10.71
+Omax,B, Market ,17.86
+Omax,B, Agriculture cooperative ,0.00
+Omax,B, Other source ,0.00
+Winner,B,Government (MINAGRI/RAB/NAEB),0.00
+Winner,B, Agro dealers ,100.00
+Winner,B, NGOs/Companies ,0.00
+Winner,B, Market ,0.00
+Winner,B, Agriculture cooperative ,0.00
+Winner,B, Other source ,0.00
+Yara Viva,B,Government (MINAGRI/RAB/NAEB),0.00
+Yara Viva,B, Agro dealers ,62.50
+Yara Viva,B, NGOs/Companies ,0.00
+Yara Viva,B, Market ,12.50
+Yara Viva,B, Agriculture cooperative ,0.00
+Yara Viva,B, Other source ,25.00
+Amidas,B,Government (MINAGRI/RAB/NAEB),0.00
+Amidas,B, Agro dealers ,39.39
+Amidas,B, NGOs/Companies ,21.21
+Amidas,B, Market ,3.03
+Amidas,B, Agriculture cooperative ,30.30
+Amidas,B, Other source ,6.06
+Cereal,B,Government (MINAGRI/RAB/NAEB),0.00
+Cereal,B, Agro dealers ,50.00
+Cereal,B, NGOs/Companies ,14.00
+Cereal,B, Market ,2.00
+Cereal,B, Agriculture cooperative ,30.00
+Cereal,B, Other source ,4.00
+Boaster,B,Government (MINAGRI/RAB/NAEB),0.00
+Boaster,B, Agro dealers ,0.00
+Boaster,B, NGOs/Companies ,0.00
+Boaster,B, Market ,0.00
+Boaster,B, Agriculture cooperative ,100.00
+Boaster,B, Other source ,0.00
+DI Grow,B,Government (MINAGRI/RAB/NAEB),0.00
+DI Grow,B, Agro dealers ,77.27
+DI Grow,B, NGOs/Companies ,0.00
+DI Grow,B, Market ,9.09
+DI Grow,B, Agriculture cooperative ,13.64
+DI Grow,B, Other source ,0.00
+Other type of fertilizer,B,Government (MINAGRI/RAB/NAEB),3.57
+Other type of fertilizer,B, Agro dealers ,69.64
+Other type of fertilizer,B, NGOs/Companies ,21.43
+Other type of fertilizer,B, Market ,1.79
+Other type of fertilizer,B, Agriculture cooperative ,1.79
+Other type of fertilizer,B, Other source ,1.79
+NPK 17-17-17,C,Government (MINAGRI/RAB/NAEB),0.47
+NPK 17-17-17,C, Agro dealers ,65.98
+NPK 17-17-17,C, NGOs/Companies ,16.45
+NPK 17-17-17,C, Market ,8.15
+NPK 17-17-17,C, Agriculture cooperative ,8.62
+NPK 17-17-17,C, Other source ,0.33
+NPK 20-10-10,C,Government (MINAGRI/RAB/NAEB),0.00
+NPK 20-10-10,C, Agro dealers ,100.00
+NPK 20-10-10,C, NGOs/Companies ,0.00
+NPK 20-10-10,C, Market ,0.00
+NPK 20-10-10,C, Agriculture cooperative ,0.00
+NPK 20-10-10,C, Other source ,0.00
+NPK 25-5-5,C,Government (MINAGRI/RAB/NAEB),0.00
+NPK 25-5-5,C, Agro dealers ,100.00
+NPK 25-5-5,C, NGOs/Companies ,0.00
+NPK 25-5-5,C, Market ,0.00
+NPK 25-5-5,C, Agriculture cooperative ,0.00
+NPK 25-5-5,C, Other source ,0.00
+NPK 22-6-12,C,Government (MINAGRI/RAB/NAEB),0.00
+NPK 22-6-12,C, Agro dealers ,100.00
+NPK 22-6-12,C, NGOs/Companies ,0.00
+NPK 22-6-12,C, Market ,0.00
+NPK 22-6-12,C, Agriculture cooperative ,0.00
+NPK 22-6-12,C, Other source ,0.00
+Other NPK,C,Government (MINAGRI/RAB/NAEB),0.00
+Other NPK,C, Agro dealers ,86.84
+Other NPK,C, NGOs/Companies ,5.26
+Other NPK,C, Market ,5.26
+Other NPK,C, Agriculture cooperative ,2.63
+Other NPK,C, Other source ,0.00
+Urea,C,Government (MINAGRI/RAB/NAEB),0.40
+Urea,C, Agro dealers ,61.09
+Urea,C, NGOs/Companies ,22.05
+Urea,C, Market ,10.65
+Urea,C, Agriculture cooperative ,5.26
+Urea,C, Other source ,0.54
+liquid urea (Mbonea M),C,Government (MINAGRI/RAB/NAEB),0.00
+liquid urea (Mbonea M),C, Agro dealers ,75.81
+liquid urea (Mbonea M),C, NGOs/Companies ,16.94
+liquid urea (Mbonea M),C, Market ,4.03
+liquid urea (Mbonea M),C, Agriculture cooperative ,3.23
+liquid urea (Mbonea M),C, Other source ,0.00
+DAP,C,Government (MINAGRI/RAB/NAEB),0.37
+DAP,C, Agro dealers ,60.20
+DAP,C, NGOs/Companies ,22.07
+DAP,C, Market ,12.28
+DAP,C, Agriculture cooperative ,4.25
+DAP,C, Other source ,0.83
+TSP,C,Government (MINAGRI/RAB/NAEB),0.00
+TSP,C, Agro dealers ,50.00
+TSP,C, NGOs/Companies ,0.00
+TSP,C, Market ,0.00
+TSP,C, Agriculture cooperative ,50.00
+TSP,C, Other source ,0.00
+KCL/MOP,C,Government (MINAGRI/RAB/NAEB),0.00
+KCL/MOP,C, Agro dealers ,100.00
+KCL/MOP,C, NGOs/Companies ,0.00
+KCL/MOP,C, Market ,0.00
+KCL/MOP,C, Agriculture cooperative ,0.00
+KCL/MOP,C, Other source ,0.00
+Omax,C,Government (MINAGRI/RAB/NAEB),0.00
+Omax,C, Agro dealers ,75.68
+Omax,C, NGOs/Companies ,5.41
+Omax,C, Market ,8.11
+Omax,C, Agriculture cooperative ,10.81
+Omax,C, Other source ,0.00
+Winner,C,Government (MINAGRI/RAB/NAEB),0.00
+Winner,C, Agro dealers ,91.67
+Winner,C, NGOs/Companies ,0.00
+Winner,C, Market ,0.00
+Winner,C, Agriculture cooperative ,8.33
+Winner,C, Other source ,0.00
+Yara Viva,C,Government (MINAGRI/RAB/NAEB),0.00
+Yara Viva,C, Agro dealers ,80.95
+Yara Viva,C, NGOs/Companies ,9.52
+Yara Viva,C, Market ,4.76
+Yara Viva,C, Agriculture cooperative ,4.76
+Yara Viva,C, Other source ,0.00
+Amidas,C,Government (MINAGRI/RAB/NAEB),0.00
+Amidas,C, Agro dealers ,100.00
+Amidas,C, NGOs/Companies ,0.00
+Amidas,C, Market ,0.00
+Amidas,C, Agriculture cooperative ,0.00
+Amidas,C, Other source ,0.00
+Cereal,C,Government (MINAGRI/RAB/NAEB),0.00
+Cereal,C, Agro dealers ,42.86
+Cereal,C, NGOs/Companies ,0.00
+Cereal,C, Market ,0.00
+Cereal,C, Agriculture cooperative ,57.14
+Cereal,C, Other source ,0.00
+Boaster,C,Government (MINAGRI/RAB/NAEB),0.00
+Boaster,C, Agro dealers ,50.00
+Boaster,C, NGOs/Companies ,0.00
+Boaster,C, Market ,50.00
+Boaster,C, Agriculture cooperative ,0.00
+Boaster,C, Other source ,0.00
+DI Grow,C,Government (MINAGRI/RAB/NAEB),0.00
+DI Grow,C, Agro dealers ,74.07
+DI Grow,C, NGOs/Companies ,7.41
+DI Grow,C, Market ,7.41
+DI Grow,C, Agriculture cooperative ,7.41
+DI Grow,C, Other source ,3.70
+Other type of fertilizer,C,Government (MINAGRI/RAB/NAEB),0.83
+Other type of fertilizer,C, Agro dealers ,67.50
+Other type of fertilizer,C, NGOs/Companies ,15.00
+Other type of fertilizer,C, Market ,8.33
+Other type of fertilizer,C, Agriculture cooperative ,7.50
+Other type of fertilizer,C, Other source ,0.83

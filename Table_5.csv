@@ -1,0 +1,1678 @@
+District,Crop,Season,Average yield
+Bugesera,Maize,A,1517.80
+Bugesera,Sorghum,A,743.41
+Bugesera,Paddy rice,A,5703.76
+Bugesera,Wheat,A,0.00
+Bugesera,Other cereals,A,610.67
+Bugesera,Cassava,A,16634.31
+Bugesera,Sweet potato,A,7320.47
+Bugesera,Irish potato,A,2596.29
+Bugesera,Yams & Taro,A,0.00
+Bugesera,Bananas,A,10619.29
+Bugesera,Cooking banana,A,14007.08
+Bugesera,Dessert banana,A,7797.69
+Bugesera,Banana for beer,A,9008.77
+Bugesera,Bean,A,573.64
+Bugesera,Bush bean,A,573.69
+Bugesera,Climbing bean,A,559.29
+Bugesera,Pea,A,673.63
+Bugesera,Groundnuts,A,307.34
+Bugesera,Soybean,A,211.85
+Bugesera,vegetables,A,6708.58
+Bugesera,Fruits,A,3526.20
+Bugesera,Fodder crops,A,10859.68
+Bugesera,Other crops,A,4900.59
+Bugesera,Maize,B,1222.32
+Bugesera,Sorghum,B,757.97
+Bugesera,Paddy rice,B,5873.95
+Bugesera,Wheat,B,0.00
+Bugesera,Chia seeds,B,483.69
+Bugesera,Other Cereals,B,1068.28
+Bugesera,Cassava,B,16348.38
+Bugesera,Sweet potatoes,B,4155.03
+Bugesera,Irish potatoes,B,1992.11
+Bugesera,Yams & Taro,B,6747.42
+Bugesera,Bananas,B,9977.68
+Bugesera,Cooking Banana,B,13458.13
+Bugesera,Dessert banana,B,12546.83
+Bugesera,Banana for beer,B,8124.49
+Bugesera,Beans,B,679.73
+Bugesera,Bush bean,B,677.78
+Bugesera,Climbing bean,B,861.90
+Bugesera,Peas,B,444.24
+Bugesera,Ground nuts,B,519.37
+Bugesera,Soya beans,B,352.95
+Bugesera,Vegetables,B,11340.61
+Bugesera,Fruits,B,5701.57
+Bugesera,Fodder crops,B,16406.73
+Bugesera,Other crops,B,2780.67
+Bugesera,Tubers and Roots,C,5502.05
+Bugesera,Sweet potatoes,C,5526.33
+Bugesera,Irish potatoes,C,4990.45
+Bugesera,Bean,C,1084.52
+Bugesera,Bush bean,C,1084.52
+Bugesera,Climbing bean,C,0.00
+Bugesera,Peas,C,0.00
+Bugesera,Soya beans,C,846.56
+Bugesera,Vegetables,C,10333.57
+Burera,Maize,A,2031.18
+Burera,Sorghum,A,1509.71
+Burera,Paddy rice,A,0.00
+Burera,Wheat,A,1686.84
+Burera,Other cereals,A,1354.44
+Burera,Cassava,A,11953.77
+Burera,Sweet potato,A,10235.13
+Burera,Irish potato,A,10874.67
+Burera,Yams & Taro,A,5920.06
+Burera,Bananas,A,10536.33
+Burera,Cooking banana,A,13555.42
+Burera,Dessert banana,A,5619.07
+Burera,Banana for beer,A,8367.30
+Burera,Bean,A,811.18
+Burera,Bush bean,A,561.59
+Burera,Climbing bean,A,826.49
+Burera,Pea,A,640.65
+Burera,Groundnuts,A,0.00
+Burera,Soybean,A,0.00
+Burera,vegetables,A,3736.07
+Burera,Fruits,A,1025.84
+Burera,Fodder crops,A,20215.05
+Burera,Other crops,A,19280.15
+Burera,Maize,B,1114.81
+Burera,Sorghum,B,1402.98
+Burera,Paddy rice,B,0.00
+Burera,Wheat,B,1501.86
+Burera,Chia seeds,B,0.00
+Burera,Other Cereals,B,924.41
+Burera,Cassava,B,11815.32
+Burera,Sweet potatoes,B,8000.92
+Burera,Irish potatoes,B,7710.14
+Burera,Yams & Taro,B,7696.39
+Burera,Bananas,B,12960.90
+Burera,Cooking Banana,B,19099.03
+Burera,Dessert banana,B,12186.82
+Burera,Banana for beer,B,7646.78
+Burera,Beans,B,1258.14
+Burera,Bush bean,B,850.50
+Burera,Climbing bean,B,1275.74
+Burera,Peas,B,823.80
+Burera,Ground nuts,B,0.00
+Burera,Soya beans,B,0.00
+Burera,Vegetables,B,9782.56
+Burera,Fruits,B,2855.38
+Burera,Fodder crops,B,9345.13
+Burera,Other crops,B,161.28
+Burera,Tubers and Roots,C,7413.37
+Burera,Sweet potatoes,C,5192.83
+Burera,Irish potatoes,C,7772.68
+Burera,Bean,C,0.00
+Burera,Bush bean,C,0.00
+Burera,Climbing bean,C,0.00
+Burera,Peas,C,0.00
+Burera,Soya beans,C,0.00
+Burera,Vegetables,C,11190.99
+Gakenke,Maize,A,1652.97
+Gakenke,Sorghum,A,0.00
+Gakenke,Paddy rice,A,1478.26
+Gakenke,Wheat,A,604.14
+Gakenke,Other cereals,A,616.67
+Gakenke,Cassava,A,12667.92
+Gakenke,Sweet potato,A,6606.73
+Gakenke,Irish potato,A,5704.15
+Gakenke,Yams & Taro,A,6140.91
+Gakenke,Bananas,A,11021.17
+Gakenke,Cooking banana,A,12525.88
+Gakenke,Dessert banana,A,8799.46
+Gakenke,Banana for beer,A,11019.27
+Gakenke,Bean,A,841.62
+Gakenke,Bush bean,A,507.86
+Gakenke,Climbing bean,A,946.24
+Gakenke,Pea,A,831.66
+Gakenke,Groundnuts,A,905.24
+Gakenke,Soybean,A,542.46
+Gakenke,vegetables,A,7120.88
+Gakenke,Fruits,A,11528.46
+Gakenke,Fodder crops,A,11268.95
+Gakenke,Other crops,A,8186.49
+Gakenke,Maize,B,914.98
+Gakenke,Sorghum,B,840.85
+Gakenke,Paddy rice,B,3942.16
+Gakenke,Wheat,B,1200.83
+Gakenke,Chia seeds,B,0.00
+Gakenke,Other Cereals,B,0.00
+Gakenke,Cassava,B,18448.40
+Gakenke,Sweet potatoes,B,11120.28
+Gakenke,Irish potatoes,B,4401.93
+Gakenke,Yams & Taro,B,7479.14
+Gakenke,Bananas,B,11513.33
+Gakenke,Cooking Banana,B,19243.97
+Gakenke,Dessert banana,B,13498.43
+Gakenke,Banana for beer,B,9144.50
+Gakenke,Beans,B,1065.93
+Gakenke,Bush bean,B,697.36
+Gakenke,Climbing bean,B,1097.90
+Gakenke,Peas,B,593.06
+Gakenke,Ground nuts,B,376.77
+Gakenke,Soya beans,B,439.75
+Gakenke,Vegetables,B,8632.26
+Gakenke,Fruits,B,10594.60
+Gakenke,Fodder crops,B,10692.45
+Gakenke,Other crops,B,4894.19
+Gakenke,Tubers and Roots,C,6563.88
+Gakenke,Sweet potatoes,C,8558.07
+Gakenke,Irish potatoes,C,5361.02
+Gakenke,Bean,C,794.99
+Gakenke,Bush bean,C,810.47
+Gakenke,Climbing bean,C,0.00
+Gakenke,Peas,C,0.00
+Gakenke,Soya beans,C,732.76
+Gakenke,Vegetables,C,11152.33
+Gasabo,Maize,A,1198.79
+Gasabo,Sorghum,A,0.00
+Gasabo,Paddy rice,A,3481.20
+Gasabo,Wheat,A,0.00
+Gasabo,Other cereals,A,632.85
+Gasabo,Cassava,A,10824.35
+Gasabo,Sweet potato,A,7160.11
+Gasabo,Irish potato,A,4118.84
+Gasabo,Yams & Taro,A,4910.22
+Gasabo,Bananas,A,11162.55
+Gasabo,Cooking banana,A,12148.31
+Gasabo,Dessert banana,A,9280.22
+Gasabo,Banana for beer,A,10893.32
+Gasabo,Bean,A,602.59
+Gasabo,Bush bean,A,602.78
+Gasabo,Climbing bean,A,599.37
+Gasabo,Pea,A,673.75
+Gasabo,Groundnuts,A,353.55
+Gasabo,Soybean,A,398.20
+Gasabo,vegetables,A,9352.25
+Gasabo,Fruits,A,1509.62
+Gasabo,Fodder crops,A,18750.43
+Gasabo,Other crops,A,6939.91
+Gasabo,Maize,B,1331.06
+Gasabo,Sorghum,B,1042.93
+Gasabo,Paddy rice,B,4719.83
+Gasabo,Wheat,B,0.00
+Gasabo,Chia seeds,B,0.00
+Gasabo,Other Cereals,B,0.00
+Gasabo,Cassava,B,13349.50
+Gasabo,Sweet potatoes,B,5741.69
+Gasabo,Irish potatoes,B,3228.77
+Gasabo,Bananas,B,13268.60
+Gasabo,Cooking Banana,B,17654.99
+Gasabo,Dessert banana,B,14119.44
+Gasabo,Banana for beer,B,9063.34
+Gasabo,Beans,B,817.58
+Gasabo,Bush bean,B,834.03
+Gasabo,Climbing bean,B,637.50
+Gasabo,Peas,B,541.91
+Gasabo,Ground nuts,B,558.59
+Gasabo,Soya beans,B,514.77
+Gasabo,Vegetables,B,11118.53
+Gasabo,Fruits,B,7712.14
+Gasabo,Fodder crops,B,14311.58
+Gasabo,Other crops,B,1864.96
+Gasabo,Tubers and Roots,C,5429.47
+Gasabo,Sweet potatoes,C,5093.31
+Gasabo,Irish potatoes,C,7673.92
+Gasabo,Bean,C,723.67
+Gasabo,Bush bean,C,723.67
+Gasabo,Climbing bean,C,0.00
+Gasabo,Peas,C,0.00
+Gasabo,Soya beans,C,0.00
+Gasabo,Vegetables,C,11623.74
+Gatsibo,Maize,A,1566.05
+Gatsibo,Sorghum,A,897.10
+Gatsibo,Paddy rice,A,3137.03
+Gatsibo,Wheat,A,415.66
+Gatsibo,Other cereals,A,708.48
+Gatsibo,Cassava,A,13709.99
+Gatsibo,Sweet potato,A,8190.86
+Gatsibo,Irish potato,A,5201.90
+Gatsibo,Yams & Taro,A,2918.41
+Gatsibo,Bananas,A,11828.66
+Gatsibo,Cooking banana,A,14466.52
+Gatsibo,Dessert banana,A,7256.93
+Gatsibo,Banana for beer,A,9368.36
+Gatsibo,Bean,A,591.91
+Gatsibo,Bush bean,A,599.17
+Gatsibo,Climbing bean,A,509.82
+Gatsibo,Pea,A,512.37
+Gatsibo,Groundnuts,A,482.07
+Gatsibo,Soybean,A,466.60
+Gatsibo,vegetables,A,4533.28
+Gatsibo,Fruits,A,6250.70
+Gatsibo,Fodder crops,A,8511.66
+Gatsibo,Other crops,A,1832.35
+Gatsibo,Maize,B,1506.56
+Gatsibo,Sorghum,B,1247.52
+Gatsibo,Paddy rice,B,3532.96
+Gatsibo,Wheat,B,0.00
+Gatsibo,Chia seeds,B,856.43
+Gatsibo,Other Cereals,B,528.49
+Gatsibo,Cassava,B,16732.74
+Gatsibo,Sweet potatoes,B,8938.44
+Gatsibo,Irish potatoes,B,4324.14
+Gatsibo,Yams & Taro,B,7789.23
+Gatsibo,Bananas,B,13893.20
+Gatsibo,Cooking Banana,B,17891.31
+Gatsibo,Dessert banana,B,10828.32
+Gatsibo,Banana for beer,B,10180.45
+Gatsibo,Beans,B,643.62
+Gatsibo,Bush bean,B,645.11
+Gatsibo,Climbing bean,B,632.01
+Gatsibo,Peas,B,576.96
+Gatsibo,Ground nuts,B,618.62
+Gatsibo,Soya beans,B,596.16
+Gatsibo,Vegetables,B,10923.65
+Gatsibo,Fruits,B,5649.91
+Gatsibo,Fodder crops,B,11901.20
+Gatsibo,Other crops,B,2162.58
+Gatsibo,Tubers and Roots,C,7475.98
+Gatsibo,Sweet potatoes,C,7542.97
+Gatsibo,Irish potatoes,C,5759.37
+Gatsibo,Bean,C,822.42
+Gatsibo,Bush bean,C,822.42
+Gatsibo,Climbing bean,C,0.00
+Gatsibo,Peas,C,0.00
+Gatsibo,Soya beans,C,0.00
+Gatsibo,Vegetables,C,9184.72
+Gicumbi,Maize,A,1346.58
+Gicumbi,Sorghum,A,932.03
+Gicumbi,Paddy rice,A,0.00
+Gicumbi,Wheat,A,727.41
+Gicumbi,Other cereals,A,471.31
+Gicumbi,Cassava,A,12966.41
+Gicumbi,Sweet potato,A,9396.40
+Gicumbi,Irish potato,A,8891.89
+Gicumbi,Yams & Taro,A,0.00
+Gicumbi,Bananas,A,11043.93
+Gicumbi,Cooking banana,A,13907.66
+Gicumbi,Dessert banana,A,7454.01
+Gicumbi,Banana for beer,A,9985.44
+Gicumbi,Bean,A,804.97
+Gicumbi,Bush bean,A,592.43
+Gicumbi,Climbing bean,A,900.75
+Gicumbi,Pea,A,644.25
+Gicumbi,Groundnuts,A,466.69
+Gicumbi,Soybean,A,726.90
+Gicumbi,vegetables,A,8969.02
+Gicumbi,Fruits,A,2263.93
+Gicumbi,Fodder crops,A,19176.07
+Gicumbi,Other crops,A,9957.12
+Gicumbi,Maize,B,1012.41
+Gicumbi,Sorghum,B,1157.04
+Gicumbi,Paddy rice,B,0.00
+Gicumbi,Wheat,B,970.77
+Gicumbi,Chia seeds,B,540.80
+Gicumbi,Other Cereals,B,0.00
+Gicumbi,Cassava,B,15490.44
+Gicumbi,Sweet potatoes,B,7182.62
+Gicumbi,Irish potatoes,B,6344.17
+Gicumbi,Yams & Taro,B,7886.00
+Gicumbi,Bananas,B,12025.16
+Gicumbi,Cooking Banana,B,19482.22
+Gicumbi,Dessert banana,B,10415.98
+Gicumbi,Banana for beer,B,9160.54
+Gicumbi,Beans,B,1009.93
+Gicumbi,Bush bean,B,671.45
+Gicumbi,Climbing bean,B,1130.70
+Gicumbi,Peas,B,830.60
+Gicumbi,Ground nuts,B,527.52
+Gicumbi,Soya beans,B,444.67
+Gicumbi,Vegetables,B,12504.46
+Gicumbi,Fruits,B,2618.49
+Gicumbi,Fodder crops,B,13860.37
+Gicumbi,Other crops,B,1887.93
+Gicumbi,Tubers and Roots,C,6969.90
+Gicumbi,Sweet potatoes,C,6011.81
+Gicumbi,Irish potatoes,C,7185.82
+Gicumbi,Bean,C,1106.47
+Gicumbi,Bush bean,C,1106.47
+Gicumbi,Climbing bean,C,0.00
+Gicumbi,Peas,C,0.00
+Gicumbi,Soya beans,C,0.00
+Gicumbi,Vegetables,C,7655.62
+Gisagara,Maize,A,2166.86
+Gisagara,Sorghum,A,784.16
+Gisagara,Paddy rice,A,4508.54
+Gisagara,Wheat,A,0.00
+Gisagara,Other cereals,A,667.11
+Gisagara,Cassava,A,15948.33
+Gisagara,Sweet potato,A,6182.28
+Gisagara,Irish potato,A,2981.69
+Gisagara,Yams & Taro,A,8728.67
+Gisagara,Bananas,A,8088.43
+Gisagara,Cooking banana,A,6845.90
+Gisagara,Dessert banana,A,7548.24
+Gisagara,Banana for beer,A,8878.69
+Gisagara,Bean,A,564.08
+Gisagara,Bush bean,A,558.28
+Gisagara,Climbing bean,A,629.77
+Gisagara,Pea,A,775.35
+Gisagara,Groundnuts,A,429.31
+Gisagara,Soybean,A,580.01
+Gisagara,vegetables,A,4760.87
+Gisagara,Fruits,A,15126.00
+Gisagara,Fodder crops,A,23114.34
+Gisagara,Other crops,A,1053.13
+Gisagara,Maize,B,1099.37
+Gisagara,Sorghum,B,895.60
+Gisagara,Paddy rice,B,3991.92
+Gisagara,Wheat,B,0.00
+Gisagara,Chia seeds,B,0.00
+Gisagara,Other Cereals,B,796.53
+Gisagara,Cassava,B,17996.20
+Gisagara,Sweet potatoes,B,5710.11
+Gisagara,Irish potatoes,B,2046.59
+Gisagara,Yams & Taro,B,3679.13
+Gisagara,Bananas,B,11285.12
+Gisagara,Cooking Banana,B,16987.40
+Gisagara,Dessert banana,B,9925.14
+Gisagara,Banana for beer,B,10108.39
+Gisagara,Beans,B,674.03
+Gisagara,Bush bean,B,657.58
+Gisagara,Climbing bean,B,776.04
+Gisagara,Peas,B,656.65
+Gisagara,Ground nuts,B,381.80
+Gisagara,Soya beans,B,489.41
+Gisagara,Vegetables,B,8835.89
+Gisagara,Fruits,B,28028.74
+Gisagara,Fodder crops,B,4648.34
+Gisagara,Other crops,B,1282.80
+Gisagara,Tubers and Roots,C,4278.11
+Gisagara,Sweet potatoes,C,4304.61
+Gisagara,Irish potatoes,C,3038.02
+Gisagara,Bean,C,765.33
+Gisagara,Bush bean,C,777.20
+Gisagara,Climbing bean,C,0.00
+Gisagara,Peas,C,288.20
+Gisagara,Soya beans,C,444.72
+Gisagara,Vegetables,C,8144.52
+Huye,Maize,A,1422.27
+Huye,Sorghum,A,0.00
+Huye,Paddy rice,A,4008.65
+Huye,Wheat,A,0.00
+Huye,Other cereals,A,719.32
+Huye,Cassava,A,17794.24
+Huye,Sweet potato,A,5812.68
+Huye,Irish potato,A,3831.32
+Huye,Yams & Taro,A,8231.91
+Huye,Bananas,A,10339.53
+Huye,Cooking banana,A,10297.38
+Huye,Dessert banana,A,8627.03
+Huye,Banana for beer,A,11241.73
+Huye,Bean,A,646.46
+Huye,Bush bean,A,637.28
+Huye,Climbing bean,A,674.90
+Huye,Pea,A,809.96
+Huye,Groundnuts,A,338.17
+Huye,Soybean,A,510.55
+Huye,vegetables,A,7555.70
+Huye,Fruits,A,3344.24
+Huye,Fodder crops,A,17185.44
+Huye,Other crops,A,13438.40
+Huye,Maize,B,1026.31
+Huye,Sorghum,B,957.83
+Huye,Paddy rice,B,3449.78
+Huye,Wheat,B,0.00
+Huye,Chia seeds,B,0.00
+Huye,Other Cereals,B,867.88
+Huye,Cassava,B,18923.73
+Huye,Sweet potatoes,B,8518.85
+Huye,Irish potatoes,B,2842.65
+Huye,Yams & Taro,B,4408.77
+Huye,Bananas,B,9736.94
+Huye,Cooking Banana,B,11691.85
+Huye,Dessert banana,B,10136.31
+Huye,Banana for beer,B,8700.26
+Huye,Beans,B,607.75
+Huye,Bush bean,B,600.96
+Huye,Climbing bean,B,618.01
+Huye,Peas,B,520.94
+Huye,Ground nuts,B,329.00
+Huye,Soya beans,B,478.08
+Huye,Vegetables,B,11321.74
+Huye,Fruits,B,999.61
+Huye,Fodder crops,B,7768.56
+Huye,Other crops,B,1699.61
+Huye,Tubers and Roots,C,5751.11
+Huye,Sweet potatoes,C,6112.04
+Huye,Irish potatoes,C,4780.18
+Huye,Bean,C,948.06
+Huye,Bush bean,C,1003.86
+Huye,Climbing bean,C,0.00
+Huye,Peas,C,628.26
+Huye,Soya beans,C,817.20
+Huye,Vegetables,C,8411.25
+Kamonyi,Maize,A,1635.83
+Kamonyi,Sorghum,A,0.00
+Kamonyi,Paddy rice,A,3302.38
+Kamonyi,Wheat,A,0.00
+Kamonyi,Other cereals,A,0.00
+Kamonyi,Cassava,A,13737.61
+Kamonyi,Sweet potato,A,5047.89
+Kamonyi,Irish potato,A,3448.98
+Kamonyi,Yams & Taro,A,4988.67
+Kamonyi,Bananas,A,9731.65
+Kamonyi,Cooking banana,A,11199.82
+Kamonyi,Dessert banana,A,6841.62
+Kamonyi,Banana for beer,A,9932.93
+Kamonyi,Bean,A,588.47
+Kamonyi,Bush bean,A,569.19
+Kamonyi,Climbing bean,A,705.88
+Kamonyi,Pea,A,407.92
+Kamonyi,Groundnuts,A,347.17
+Kamonyi,Soybean,A,546.73
+Kamonyi,vegetables,A,6769.72
+Kamonyi,Fruits,A,7555.70
+Kamonyi,Fodder crops,A,4035.84
+Kamonyi,Other crops,A,12576.09
+Kamonyi,Maize,B,1009.48
+Kamonyi,Sorghum,B,1101.46
+Kamonyi,Paddy rice,B,2710.15
+Kamonyi,Wheat,B,0.00
+Kamonyi,Chia seeds,B,877.70
+Kamonyi,Other Cereals,B,793.48
+Kamonyi,Cassava,B,16521.24
+Kamonyi,Sweet potatoes,B,6286.07
+Kamonyi,Irish potatoes,B,3175.48
+Kamonyi,Yams & Taro,B,9136.46
+Kamonyi,Bananas,B,9415.88
+Kamonyi,Cooking Banana,B,16959.01
+Kamonyi,Dessert banana,B,10703.58
+Kamonyi,Banana for beer,B,8288.68
+Kamonyi,Beans,B,556.78
+Kamonyi,Bush bean,B,569.89
+Kamonyi,Climbing bean,B,490.69
+Kamonyi,Peas,B,685.09
+Kamonyi,Ground nuts,B,499.43
+Kamonyi,Soya beans,B,463.16
+Kamonyi,Vegetables,B,8959.73
+Kamonyi,Fruits,B,6754.74
+Kamonyi,Fodder crops,B,4980.14
+Kamonyi,Other crops,B,9231.00
+Kamonyi,Tubers and Roots,C,5235.07
+Kamonyi,Sweet potatoes,C,5210.48
+Kamonyi,Irish potatoes,C,5327.00
+Kamonyi,Bean,C,1264.44
+Kamonyi,Bush bean,C,1267.59
+Kamonyi,Climbing bean,C,0.00
+Kamonyi,Peas,C,1438.37
+Kamonyi,Soya beans,C,1029.93
+Kamonyi,Vegetables,C,11199.74
+Karongi,Maize,A,1595.49
+Karongi,Sorghum,A,0.00
+Karongi,Paddy rice,A,0.00
+Karongi,Wheat,A,0.00
+Karongi,Other cereals,A,0.00
+Karongi,Cassava,A,7391.34
+Karongi,Sweet potato,A,7504.76
+Karongi,Irish potato,A,8462.83
+Karongi,Yams & Taro,A,6047.38
+Karongi,Bananas,A,11864.05
+Karongi,Cooking banana,A,12384.39
+Karongi,Dessert banana,A,12009.69
+Karongi,Banana for beer,A,11677.85
+Karongi,Bean,A,909.56
+Karongi,Bush bean,A,614.75
+Karongi,Climbing bean,A,1059.16
+Karongi,Pea,A,834.75
+Karongi,Groundnuts,A,310.81
+Karongi,Soybean,A,603.01
+Karongi,vegetables,A,8257.10
+Karongi,Fruits,A,3509.96
+Karongi,Fodder crops,A,12753.84
+Karongi,Other crops,A,607.89
+Karongi,Maize,B,1338.76
+Karongi,Sorghum,B,895.51
+Karongi,Paddy rice,B,0.00
+Karongi,Wheat,B,806.36
+Karongi,Chia seeds,B,0.00
+Karongi,Other Cereals,B,0.00
+Karongi,Cassava,B,15768.29
+Karongi,Sweet potatoes,B,10487.49
+Karongi,Irish potatoes,B,3447.12
+Karongi,Yams & Taro,B,9362.83
+Karongi,Bananas,B,10349.28
+Karongi,Cooking Banana,B,14766.54
+Karongi,Dessert banana,B,12538.40
+Karongi,Banana for beer,B,9960.13
+Karongi,Beans,B,1066.79
+Karongi,Bush bean,B,834.56
+Karongi,Climbing bean,B,1167.47
+Karongi,Peas,B,945.32
+Karongi,Ground nuts,B,0.00
+Karongi,Soya beans,B,574.51
+Karongi,Vegetables,B,9203.79
+Karongi,Fruits,B,8381.14
+Karongi,Fodder crops,B,14493.41
+Karongi,Other crops,B,938.77
+Karongi,Tubers and Roots,C,8199.36
+Karongi,Sweet potatoes,C,6268.19
+Karongi,Irish potatoes,C,11104.89
+Karongi,Bean,C,1063.71
+Karongi,Bush bean,C,1167.03
+Karongi,Climbing bean,C,0.00
+Karongi,Peas,C,503.48
+Karongi,Soya beans,C,571.80
+Karongi,Vegetables,C,8567.21
+Kayonza,Maize,A,1346.74
+Kayonza,Sorghum,A,1077.83
+Kayonza,Paddy rice,A,4196.90
+Kayonza,Wheat,A,0.00
+Kayonza,Other cereals,A,441.96
+Kayonza,Cassava,A,12846.48
+Kayonza,Sweet potato,A,6536.09
+Kayonza,Irish potato,A,3052.69
+Kayonza,Yams & Taro,A,5367.68
+Kayonza,Bananas,A,12638.04
+Kayonza,Cooking banana,A,15141.66
+Kayonza,Dessert banana,A,7859.82
+Kayonza,Banana for beer,A,8721.14
+Kayonza,Bean,A,540.58
+Kayonza,Bush bean,A,540.18
+Kayonza,Climbing bean,A,610.87
+Kayonza,Pea,A,442.03
+Kayonza,Groundnuts,A,227.55
+Kayonza,Soybean,A,313.47
+Kayonza,vegetables,A,7033.99
+Kayonza,Fruits,A,5682.71
+Kayonza,Fodder crops,A,7110.17
+Kayonza,Other crops,A,4310.21
+Kayonza,Maize,B,1224.43
+Kayonza,Sorghum,B,1139.40
+Kayonza,Paddy rice,B,3951.59
+Kayonza,Wheat,B,0.00
+Kayonza,Chia seeds,B,294.80
+Kayonza,Other Cereals,B,541.80
+Kayonza,Cassava,B,17798.14
+Kayonza,Sweet potatoes,B,5522.77
+Kayonza,Irish potatoes,B,3117.06
+Kayonza,Yams & Taro,B,5778.52
+Kayonza,Bananas,B,16686.76
+Kayonza,Cooking Banana,B,19667.39
+Kayonza,Dessert banana,B,13691.67
+Kayonza,Banana for beer,B,8855.12
+Kayonza,Beans,B,677.89
+Kayonza,Bush bean,B,673.39
+Kayonza,Climbing bean,B,964.63
+Kayonza,Peas,B,699.14
+Kayonza,Ground nuts,B,566.59
+Kayonza,Soya beans,B,557.20
+Kayonza,Vegetables,B,7401.89
+Kayonza,Fruits,B,5129.96
+Kayonza,Fodder crops,B,27723.61
+Kayonza,Other crops,B,2601.20
+Kayonza,Tubers and Roots,C,3466.70
+Kayonza,Sweet potatoes,C,8581.43
+Kayonza,Irish potatoes,C,1051.54
+Kayonza,Bean,C,758.32
+Kayonza,Bush bean,C,758.32
+Kayonza,Climbing bean,C,0.00
+Kayonza,Peas,C,0.00
+Kayonza,Soya beans,C,0.00
+Kayonza,Vegetables,C,14898.17
+Kicukiro,Maize,A,1229.62
+Kicukiro,Sorghum,A,0.00
+Kicukiro,Paddy rice,A,3098.58
+Kicukiro,Wheat,A,0.00
+Kicukiro,Other cereals,A,181.12
+Kicukiro,Cassava,A,9701.62
+Kicukiro,Sweet potato,A,7662.37
+Kicukiro,Irish potato,A,3230.91
+Kicukiro,Yams & Taro,A,4924.83
+Kicukiro,Cooking banana,A,10097.22
+Kicukiro,Dessert banana,A,10524.42
+Kicukiro,Banana for beer,A,10654.19
+Kicukiro,Bean,A,666.90
+Kicukiro,Bush bean,A,668.72
+Kicukiro,Climbing bean,A,543.72
+Kicukiro,Pea,A,0.00
+Kicukiro,Groundnuts,A,126.45
+Kicukiro,Soybean,A,239.19
+Kicukiro,vegetables,A,4115.20
+Kicukiro,Fruits,A,7827.49
+Kicukiro,Fodder crops,A,1282.41
+Kicukiro,Other crops,A,2285.09
+Kicukiro,Maize,B,913.61
+Kicukiro,Sorghum,B,1137.34
+Kicukiro,Paddy rice,B,4733.01
+Kicukiro,Wheat,B,0.00
+Kicukiro,Chia seeds,B,127.60
+Kicukiro,Other Cereals,B,0.00
+Kicukiro,Cassava,B,14280.75
+Kicukiro,Sweet potatoes,B,10474.88
+Kicukiro,Irish potatoes,B,3262.44
+Kicukiro,Yams & Taro,B,5840.34
+Kicukiro,Bananas,B,13415.91
+Kicukiro,Cooking Banana,B,18818.12
+Kicukiro,Dessert banana,B,14347.96
+Kicukiro,Banana for beer,B,9788.23
+Kicukiro,Beans,B,821.36
+Kicukiro,Bush bean,B,823.34
+Kicukiro,Climbing bean,B,714.71
+Kicukiro,Peas,B,0.00
+Kicukiro,Ground nuts,B,478.19
+Kicukiro,Soya beans,B,567.25
+Kicukiro,Vegetables,B,8542.39
+Kicukiro,Fruits,B,1598.69
+Kicukiro,Fodder crops,B,4445.10
+Kicukiro,Other crops,B,6156.76
+Kicukiro,Tubers and Roots,C,8895.95
+Kicukiro,Sweet potatoes,C,9231.15
+Kicukiro,Irish potatoes,C,0.00
+Kicukiro,Bean,C,892.26
+Kicukiro,Bush bean,C,892.26
+Kicukiro,Climbing bean,C,0.00
+Kicukiro,Peas,C,0.00
+Kicukiro,Soya beans,C,0.00
+Kirehe,Maize,A,1382.68
+Kirehe,Sorghum,A,895.01
+Kirehe,Paddy rice,A,4962.44
+Kirehe,Wheat,A,0.00
+Kirehe,Other cereals,A,367.42
+Kirehe,Cassava,A,14114.13
+Kirehe,Sweet potato,A,6204.68
+Kirehe,Irish potato,A,4204.41
+Kirehe,Yams & Taro,A,2345.04
+Kirehe,Bananas,A,13695.13
+Kirehe,Cooking banana,A,16902.92
+Kirehe,Dessert banana,A,7846.47
+Kirehe,Banana for beer,A,10524.96
+Kirehe,Bean,A,546.88
+Kirehe,Bush bean,A,536.14
+Kirehe,Climbing bean,A,656.76
+Kirehe,Pea,A,711.38
+Kirehe,Groundnuts,A,369.31
+Kirehe,Soybean,A,517.33
+Kirehe,vegetables,A,8370.97
+Kirehe,Fruits,A,0.00
+Kirehe,Fodder crops,A,0.00
+Kirehe,Other crops,A,16912.62
+Kirehe,Maize,B,2141.16
+Kirehe,Sorghum,B,906.43
+Kirehe,Paddy rice,B,4430.37
+Kirehe,Wheat,B,2279.61
+Kirehe,Chia seeds,B,570.44
+Kirehe,Other Cereals,B,870.14
+Kirehe,Cassava,B,18210.46
+Kirehe,Sweet potatoes,B,5913.49
+Kirehe,Irish potatoes,B,3083.52
+Kirehe,Yams & Taro,B,5115.59
+Kirehe,Bananas,B,16406.16
+Kirehe,Cooking Banana,B,21063.52
+Kirehe,Dessert banana,B,10456.20
+Kirehe,Banana for beer,B,9176.87
+Kirehe,Beans,B,602.24
+Kirehe,Bush bean,B,615.07
+Kirehe,Climbing bean,B,582.00
+Kirehe,Peas,B,577.78
+Kirehe,Ground nuts,B,437.05
+Kirehe,Soya beans,B,411.39
+Kirehe,Vegetables,B,7807.19
+Kirehe,Fruits,B,5708.40
+Kirehe,Fodder crops,B,17110.82
+Kirehe,Other crops,B,1567.74
+Kirehe,Tubers and Roots,C,4191.37
+Kirehe,Sweet potatoes,C,3938.51
+Kirehe,Irish potatoes,C,4766.68
+Kirehe,Bean,C,933.30
+Kirehe,Bush bean,C,933.30
+Kirehe,Climbing bean,C,0.00
+Kirehe,Peas,C,1169.14
+Kirehe,Soya beans,C,2730.85
+Kirehe,Vegetables,C,9959.77
+Muhanga,Maize,A,1584.01
+Muhanga,Sorghum,A,810.69
+Muhanga,Paddy rice,A,2612.75
+Muhanga,Wheat,A,999.32
+Muhanga,Other cereals,A,1154.33
+Muhanga,Cassava,A,13577.33
+Muhanga,Sweet potato,A,6425.08
+Muhanga,Irish potato,A,3522.25
+Muhanga,Yams & Taro,A,9456.36
+Muhanga,Bananas,A,9548.80
+Muhanga,Cooking banana,A,11214.41
+Muhanga,Dessert banana,A,9823.56
+Muhanga,Banana for beer,A,9109.72
+Muhanga,Bean,A,507.69
+Muhanga,Bush bean,A,452.08
+Muhanga,Climbing bean,A,566.18
+Muhanga,Pea,A,991.51
+Muhanga,Groundnuts,A,147.23
+Muhanga,Soybean,A,553.22
+Muhanga,vegetables,A,11234.84
+Muhanga,Fruits,A,2057.70
+Muhanga,Fodder crops,A,22545.37
+Muhanga,Other crops,A,15355.49
+Muhanga,Maize,B,1257.88
+Muhanga,Sorghum,B,728.67
+Muhanga,Paddy rice,B,2019.91
+Muhanga,Wheat,B,2457.05
+Muhanga,Chia seeds,B,0.00
+Muhanga,Other Cereals,B,0.00
+Muhanga,Cassava,B,16840.42
+Muhanga,Sweet potatoes,B,7639.30
+Muhanga,Irish potatoes,B,3290.22
+Muhanga,Yams & Taro,B,7231.23
+Muhanga,Bananas,B,8937.86
+Muhanga,Cooking Banana,B,16396.79
+Muhanga,Dessert banana,B,10975.35
+Muhanga,Banana for beer,B,8133.83
+Muhanga,Beans,B,558.61
+Muhanga,Bush bean,B,604.03
+Muhanga,Climbing bean,B,499.17
+Muhanga,Peas,B,554.19
+Muhanga,Ground nuts,B,0.00
+Muhanga,Soya beans,B,510.84
+Muhanga,Vegetables,B,8800.24
+Muhanga,Fruits,B,3080.84
+Muhanga,Fodder crops,B,8233.63
+Muhanga,Other crops,B,12250.84
+Muhanga,Tubers and Roots,C,7208.38
+Muhanga,Sweet potatoes,C,7798.30
+Muhanga,Irish potatoes,C,5649.23
+Muhanga,Bean,C,945.97
+Muhanga,Bush bean,C,977.75
+Muhanga,Climbing bean,C,300.35
+Muhanga,Peas,C,544.27
+Muhanga,Soya beans,C,894.26
+Muhanga,Vegetables,C,8732.68
+Musanze,Maize,A,1836.68
+Musanze,Sorghum,A,1502.08
+Musanze,Paddy rice,A,0.00
+Musanze,Wheat,A,1229.48
+Musanze,Other cereals,A,147.36
+Musanze,Cassava,A,5615.21
+Musanze,Sweet potato,A,7475.36
+Musanze,Irish potato,A,12543.06
+Musanze,Yams & Taro,A,3050.02
+Musanze,Bananas,A,11402.73
+Musanze,Cooking banana,A,13057.04
+Musanze,Dessert banana,A,8468.99
+Musanze,Banana for beer,A,10624.07
+Musanze,Bean,A,1072.02
+Musanze,Bush bean,A,414.20
+Musanze,Climbing bean,A,1114.28
+Musanze,Pea,A,556.73
+Musanze,Groundnuts,A,0.00
+Musanze,Soybean,A,548.63
+Musanze,vegetables,A,7172.09
+Musanze,Fruits,A,7020.46
+Musanze,Fodder crops,A,4661.25
+Musanze,Other crops,A,5153.97
+Musanze,Maize,B,1475.50
+Musanze,Sorghum,B,1228.88
+Musanze,Paddy rice,B,0.00
+Musanze,Wheat,B,1236.50
+Musanze,Chia seeds,B,0.00
+Musanze,Other Cereals,B,0.00
+Musanze,Cassava,B,13048.56
+Musanze,Sweet potatoes,B,9266.11
+Musanze,Irish potatoes,B,8717.10
+Musanze,Yams & Taro,B,10784.33
+Musanze,Bananas,B,9933.59
+Musanze,Cooking Banana,B,13953.40
+Musanze,Dessert banana,B,7762.64
+Musanze,Banana for beer,B,9454.56
+Musanze,Beans,B,1314.81
+Musanze,Bush bean,B,818.07
+Musanze,Climbing bean,B,1343.44
+Musanze,Peas,B,939.63
+Musanze,Ground nuts,B,0.00
+Musanze,Soya beans,B,651.12
+Musanze,Vegetables,B,9452.31
+Musanze,Fruits,B,7469.22
+Musanze,Fodder crops,B,9304.52
+Musanze,Other crops,B,8677.94
+Musanze,Tubers and Roots,C,7472.01
+Musanze,Sweet potatoes,C,6045.44
+Musanze,Irish potatoes,C,7794.69
+Musanze,Bean,C,824.11
+Musanze,Bush bean,C,570.31
+Musanze,Climbing bean,C,1122.25
+Musanze,Peas,C,265.35
+Musanze,Soya beans,C,0.00
+Musanze,Vegetables,C,9861.37
+Ngoma,Maize,A,1671.65
+Ngoma,Sorghum,A,966.53
+Ngoma,Paddy rice,A,3572.97
+Ngoma,Wheat,A,0.00
+Ngoma,Other cereals,A,449.81
+Ngoma,Cassava,A,12598.66
+Ngoma,Sweet potato,A,6760.06
+Ngoma,Irish potato,A,5027.94
+Ngoma,Yams & Taro,A,3565.94
+Ngoma,Bananas,A,12867.57
+Ngoma,Cooking banana,A,16219.46
+Ngoma,Dessert banana,A,6767.09
+Ngoma,Banana for beer,A,10548.80
+Ngoma,Bean,A,555.90
+Ngoma,Bush bean,A,544.46
+Ngoma,Climbing bean,A,724.87
+Ngoma,Pea,A,785.89
+Ngoma,Groundnuts,A,506.83
+Ngoma,Soybean,A,630.61
+Ngoma,vegetables,A,7476.47
+Ngoma,Fruits,A,4806.11
+Ngoma,Fodder crops,A,41860.92
+Ngoma,Other crops,A,39612.69
+Ngoma,Maize,B,930.29
+Ngoma,Sorghum,B,1035.58
+Ngoma,Paddy rice,B,3586.70
+Ngoma,Wheat,B,0.00
+Ngoma,Chia seeds,B,381.06
+Ngoma,Other Cereals,B,1078.34
+Ngoma,Cassava,B,17225.14
+Ngoma,Sweet potatoes,B,6703.56
+Ngoma,Irish potatoes,B,5330.66
+Ngoma,Yams & Taro,B,3868.99
+Ngoma,Bananas,B,15792.95
+Ngoma,Cooking Banana,B,19351.04
+Ngoma,Dessert banana,B,8250.61
+Ngoma,Banana for beer,B,11097.44
+Ngoma,Beans,B,861.50
+Ngoma,Bush bean,B,855.77
+Ngoma,Climbing bean,B,893.70
+Ngoma,Peas,B,560.45
+Ngoma,Ground nuts,B,598.99
+Ngoma,Soya beans,B,530.22
+Ngoma,Vegetables,B,10358.76
+Ngoma,Fruits,B,6010.59
+Ngoma,Fodder crops,B,11897.13
+Ngoma,Other crops,B,2702.89
+Ngoma,Tubers and Roots,C,5425.55
+Ngoma,Sweet potatoes,C,5021.56
+Ngoma,Irish potatoes,C,9889.68
+Ngoma,Bean,C,997.92
+Ngoma,Bush bean,C,997.92
+Ngoma,Climbing bean,C,0.00
+Ngoma,Peas,C,259.13
+Ngoma,Soya beans,C,377.37
+Ngoma,Vegetables,C,12137.63
+Ngororero,Maize,A,1057.33
+Ngororero,Sorghum,A,814.18
+Ngororero,Paddy rice,A,0.00
+Ngororero,Wheat,A,1021.22
+Ngororero,Other cereals,A,0.00
+Ngororero,Cassava,A,15546.08
+Ngororero,Sweet potato,A,6124.90
+Ngororero,Irish potato,A,4352.26
+Ngororero,Yams & Taro,A,6546.23
+Ngororero,Bananas,A,7655.60
+Ngororero,Cooking banana,A,8212.95
+Ngororero,Dessert banana,A,6922.60
+Ngororero,Banana for beer,A,7711.97
+Ngororero,Bean,A,777.09
+Ngororero,Bush bean,A,462.19
+Ngororero,Climbing bean,A,836.76
+Ngororero,Pea,A,769.87
+Ngororero,Groundnuts,A,0.00
+Ngororero,Soybean,A,276.13
+Ngororero,vegetables,A,9977.39
+Ngororero,Fruits,A,4460.31
+Ngororero,Fodder crops,A,25216.79
+Ngororero,Other crops,A,9135.77
+Ngororero,Maize,B,1162.90
+Ngororero,Sorghum,B,363.94
+Ngororero,Paddy rice,B,0.00
+Ngororero,Wheat,B,1141.88
+Ngororero,Chia seeds,B,0.00
+Ngororero,Other Cereals,B,0.00
+Ngororero,Cassava,B,12781.66
+Ngororero,Sweet potatoes,B,6880.94
+Ngororero,Irish potatoes,B,4455.43
+Ngororero,Yams & Taro,B,9560.12
+Ngororero,Bananas,B,10565.20
+Ngororero,Cooking Banana,B,15627.51
+Ngororero,Dessert banana,B,13407.75
+Ngororero,Banana for beer,B,9969.81
+Ngororero,Beans,B,910.69
+Ngororero,Bush bean,B,550.86
+Ngororero,Climbing bean,B,971.78
+Ngororero,Peas,B,726.59
+Ngororero,Ground nuts,B,0.00
+Ngororero,Soya beans,B,359.15
+Ngororero,Vegetables,B,9833.77
+Ngororero,Fruits,B,3669.86
+Ngororero,Fodder crops,B,9284.09
+Ngororero,Other crops,B,8038.62
+Ngororero,Tubers and Roots,C,7205.49
+Ngororero,Sweet potatoes,C,5635.12
+Ngororero,Irish potatoes,C,9640.20
+Ngororero,Bean,C,1257.90
+Ngororero,Bush bean,C,1257.90
+Ngororero,Climbing bean,C,0.00
+Ngororero,Peas,C,0.00
+Ngororero,Soya beans,C,486.81
+Ngororero,Vegetables,C,5412.94
+Nyabihu,Maize,A,1324.84
+Nyabihu,Sorghum,A,892.61
+Nyabihu,Paddy rice,A,0.00
+Nyabihu,Wheat,A,1192.43
+Nyabihu,Other cereals,A,0.00
+Nyabihu,Cassava,A,10157.90
+Nyabihu,Sweet potato,A,6844.99
+Nyabihu,Irish potato,A,12064.48
+Nyabihu,Yams & Taro,A,0.00
+Nyabihu,Bananas,A,7755.34
+Nyabihu,Cooking banana,A,10213.67
+Nyabihu,Dessert banana,A,6688.21
+Nyabihu,Banana for beer,A,7257.58
+Nyabihu,Bean,A,640.85
+Nyabihu,Bush bean,A,417.18
+Nyabihu,Climbing bean,A,648.33
+Nyabihu,Pea,A,950.80
+Nyabihu,Groundnuts,A,0.00
+Nyabihu,Soybean,A,110.42
+Nyabihu,vegetables,A,13067.27
+Nyabihu,Fruits,A,6312.25
+Nyabihu,Fodder crops,A,8445.15
+Nyabihu,Other crops,A,448.54
+Nyabihu,Maize,B,1435.44
+Nyabihu,Sorghum,B,0.00
+Nyabihu,Paddy rice,B,0.00
+Nyabihu,Wheat,B,1059.82
+Nyabihu,Chia seeds,B,0.00
+Nyabihu,Other Cereals,B,0.00
+Nyabihu,Cassava,B,9713.25
+Nyabihu,Sweet potatoes,B,6122.81
+Nyabihu,Irish potatoes,B,8949.29
+Nyabihu,Yams & Taro,B,8836.37
+Nyabihu,Bananas,B,9571.18
+Nyabihu,Cooking Banana,B,16746.34
+Nyabihu,Dessert banana,B,8948.51
+Nyabihu,Banana for beer,B,7549.17
+Nyabihu,Beans,B,1403.81
+Nyabihu,Bush bean,B,756.11
+Nyabihu,Climbing bean,B,1409.19
+Nyabihu,Peas,B,747.13
+Nyabihu,Ground nuts,B,0.00
+Nyabihu,Soya beans,B,582.05
+Nyabihu,Vegetables,B,18511.24
+Nyabihu,Fruits,B,5011.83
+Nyabihu,Fodder crops,B,3730.65
+Nyabihu,Other crops,B,700.00
+Nyabihu,Tubers and Roots,C,10324.82
+Nyabihu,Sweet potatoes,C,5326.78
+Nyabihu,Irish potatoes,C,10549.37
+Nyabihu,Bean,C,653.39
+Nyabihu,Bush bean,C,0.00
+Nyabihu,Climbing bean,C,653.39
+Nyabihu,Peas,C,593.17
+Nyabihu,Soya beans,C,0.00
+Nyabihu,Vegetables,C,14372.14
+Nyagatare,Maize,A,1954.48
+Nyagatare,Sorghum,A,1464.88
+Nyagatare,Paddy rice,A,4074.06
+Nyagatare,Wheat,A,0.00
+Nyagatare,Other cereals,A,490.71
+Nyagatare,Cassava,A,14635.05
+Nyagatare,Sweet potato,A,4722.99
+Nyagatare,Irish potato,A,5801.38
+Nyagatare,Yams & Taro,A,0.00
+Nyagatare,Bananas,A,14551.18
+Nyagatare,Cooking banana,A,18391.73
+Nyagatare,Dessert banana,A,7807.70
+Nyagatare,Banana for beer,A,11126.64
+Nyagatare,Bean,A,653.22
+Nyagatare,Bush bean,A,642.60
+Nyagatare,Climbing bean,A,744.70
+Nyagatare,Pea,A,502.80
+Nyagatare,Groundnuts,A,416.92
+Nyagatare,Soybean,A,719.23
+Nyagatare,vegetables,A,5459.14
+Nyagatare,Fruits,A,2844.25
+Nyagatare,Fodder crops,A,47.94
+Nyagatare,Other crops,A,24708.01
+Nyagatare,Maize,B,1654.45
+Nyagatare,Sorghum,B,1027.86
+Nyagatare,Paddy rice,B,3921.22
+Nyagatare,Wheat,B,0.00
+Nyagatare,Chia seeds,B,521.48
+Nyagatare,Other Cereals,B,1041.23
+Nyagatare,Cassava,B,19688.51
+Nyagatare,Sweet potatoes,B,4837.41
+Nyagatare,Irish potatoes,B,4184.28
+Nyagatare,Yams & Taro,B,5770.31
+Nyagatare,Bananas,B,14128.31
+Nyagatare,Cooking Banana,B,19327.40
+Nyagatare,Dessert banana,B,8513.93
+Nyagatare,Banana for beer,B,9174.78
+Nyagatare,Beans,B,825.82
+Nyagatare,Bush bean,B,819.95
+Nyagatare,Climbing bean,B,974.24
+Nyagatare,Peas,B,479.32
+Nyagatare,Ground nuts,B,588.65
+Nyagatare,Soya beans,B,753.62
+Nyagatare,Vegetables,B,11976.93
+Nyagatare,Fruits,B,5282.54
+Nyagatare,Fodder crops,B,1142.60
+Nyagatare,Other crops,B,9928.46
+Nyagatare,Tubers and Roots,C,4951.57
+Nyagatare,Sweet potatoes,C,5184.89
+Nyagatare,Irish potatoes,C,1398.12
+Nyagatare,Bean,C,0.00
+Nyagatare,Bush bean,C,0.00
+Nyagatare,Climbing bean,C,0.00
+Nyagatare,Peas,C,0.00
+Nyagatare,Soya beans,C,0.00
+Nyagatare,Vegetables,C,10510.76
+Nyamagabe,Maize,A,1484.59
+Nyamagabe,Sorghum,A,0.00
+Nyamagabe,Paddy rice,A,1942.78
+Nyamagabe,Wheat,A,546.60
+Nyamagabe,Other cereals,A,47.26
+Nyamagabe,Cassava,A,9147.86
+Nyamagabe,Sweet potato,A,7282.18
+Nyamagabe,Irish potato,A,5478.46
+Nyamagabe,Yams & Taro,A,4449.94
+Nyamagabe,Bananas,A,8403.29
+Nyamagabe,Cooking banana,A,6981.57
+Nyamagabe,Dessert banana,A,7290.27
+Nyamagabe,Banana for beer,A,9095.21
+Nyamagabe,Bean,A,568.54
+Nyamagabe,Bush bean,A,495.58
+Nyamagabe,Climbing bean,A,600.42
+Nyamagabe,Pea,A,969.11
+Nyamagabe,Groundnuts,A,0.00
+Nyamagabe,Soybean,A,399.40
+Nyamagabe,vegetables,A,9645.82
+Nyamagabe,Fruits,A,3368.65
+Nyamagabe,Fodder crops,A,1641.13
+Nyamagabe,Other crops,A,0.00
+Nyamagabe,Maize,B,1073.27
+Nyamagabe,Sorghum,B,801.04
+Nyamagabe,Paddy rice,B,2272.69
+Nyamagabe,Wheat,B,1236.02
+Nyamagabe,Chia seeds,B,0.00
+Nyamagabe,Other Cereals,B,0.00
+Nyamagabe,Cassava,B,14103.79
+Nyamagabe,Sweet potatoes,B,6420.98
+Nyamagabe,Irish potatoes,B,6933.89
+Nyamagabe,Yams & Taro,B,8534.21
+Nyamagabe,Bananas,B,7337.46
+Nyamagabe,Cooking Banana,B,9839.67
+Nyamagabe,Dessert banana,B,14073.69
+Nyamagabe,Banana for beer,B,6478.42
+Nyamagabe,Beans,B,530.57
+Nyamagabe,Bush bean,B,585.75
+Nyamagabe,Climbing bean,B,520.88
+Nyamagabe,Peas,B,815.31
+Nyamagabe,Ground nuts,B,0.00
+Nyamagabe,Soya beans,B,594.77
+Nyamagabe,Vegetables,B,12201.33
+Nyamagabe,Fruits,B,4571.84
+Nyamagabe,Fodder crops,B,4296.37
+Nyamagabe,Other crops,B,1268.25
+Nyamagabe,Tubers and Roots,C,6640.27
+Nyamagabe,Sweet potatoes,C,5327.27
+Nyamagabe,Irish potatoes,C,7520.56
+Nyamagabe,Bean,C,839.72
+Nyamagabe,Bush bean,C,917.31
+Nyamagabe,Climbing bean,C,523.51
+Nyamagabe,Peas,C,636.86
+Nyamagabe,Soya beans,C,0.00
+Nyamagabe,Vegetables,C,9951.94
+Nyamasheke,Maize,A,1683.65
+Nyamasheke,Sorghum,A,778.93
+Nyamasheke,Paddy rice,A,3910.95
+Nyamasheke,Wheat,A,541.10
+Nyamasheke,Other cereals,A,849.07
+Nyamasheke,Cassava,A,9942.45
+Nyamasheke,Sweet potato,A,4420.03
+Nyamasheke,Irish potato,A,5123.30
+Nyamasheke,Yams & Taro,A,4833.72
+Nyamasheke,Bananas,A,7795.28
+Nyamasheke,Cooking banana,A,7964.50
+Nyamasheke,Dessert banana,A,7918.56
+Nyamasheke,Banana for beer,A,7697.45
+Nyamasheke,Bean,A,783.16
+Nyamasheke,Bush bean,A,644.63
+Nyamasheke,Climbing bean,A,845.33
+Nyamasheke,Pea,A,727.02
+Nyamasheke,Groundnuts,A,407.98
+Nyamasheke,Soybean,A,509.42
+Nyamasheke,vegetables,A,11819.93
+Nyamasheke,Fruits,A,6170.73
+Nyamasheke,Fodder crops,A,0.00
+Nyamasheke,Other crops,A,7960.72
+Nyamasheke,Maize,B,846.55
+Nyamasheke,Sorghum,B,848.33
+Nyamasheke,Paddy rice,B,3930.63
+Nyamasheke,Wheat,B,0.00
+Nyamasheke,Chia seeds,B,0.00
+Nyamasheke,Other Cereals,B,0.00
+Nyamasheke,Cassava,B,12409.52
+Nyamasheke,Sweet potatoes,B,8560.53
+Nyamasheke,Irish potatoes,B,2498.19
+Nyamasheke,Yams & Taro,B,7223.51
+Nyamasheke,Bananas,B,12041.46
+Nyamasheke,Cooking Banana,B,14597.89
+Nyamasheke,Dessert banana,B,13622.49
+Nyamasheke,Banana for beer,B,11176.58
+Nyamasheke,Beans,B,796.26
+Nyamasheke,Bush bean,B,642.20
+Nyamasheke,Climbing bean,B,839.83
+Nyamasheke,Peas,B,717.19
+Nyamasheke,Ground nuts,B,464.17
+Nyamasheke,Soya beans,B,468.47
+Nyamasheke,Vegetables,B,13573.52
+Nyamasheke,Fruits,B,5407.58
+Nyamasheke,Fodder crops,B,0.00
+Nyamasheke,Other crops,B,2876.37
+Nyamasheke,Tubers and Roots,C,4356.04
+Nyamasheke,Sweet potatoes,C,4358.38
+Nyamasheke,Irish potatoes,C,0.00
+Nyamasheke,Bean,C,0.00
+Nyamasheke,Bush bean,C,0.00
+Nyamasheke,Climbing bean,C,0.00
+Nyamasheke,Peas,C,0.00
+Nyamasheke,Soya beans,C,0.00
+Nyamasheke,Vegetables,C,10278.50
+Nyanza,Maize,A,1676.06
+Nyanza,Sorghum,A,644.68
+Nyanza,Paddy rice,A,4500.90
+Nyanza,Wheat,A,0.00
+Nyanza,Other cereals,A,636.23
+Nyanza,Cassava,A,14969.10
+Nyanza,Sweet potato,A,6026.66
+Nyanza,Irish potato,A,3617.40
+Nyanza,Yams & Taro,A,3414.19
+Nyanza,Bananas,A,8014.27
+Nyanza,Cooking banana,A,6946.94
+Nyanza,Dessert banana,A,7127.80
+Nyanza,Banana for beer,A,8932.15
+Nyanza,Bean,A,627.17
+Nyanza,Bush bean,A,646.06
+Nyanza,Climbing bean,A,523.76
+Nyanza,Pea,A,1353.93
+Nyanza,Groundnuts,A,231.39
+Nyanza,Soybean,A,390.55
+Nyanza,vegetables,A,8050.16
+Nyanza,Fruits,A,1976.74
+Nyanza,Fodder crops,A,11211.72
+Nyanza,Other crops,A,945.34
+Nyanza,Maize,B,1049.16
+Nyanza,Sorghum,B,1154.45
+Nyanza,Paddy rice,B,3648.99
+Nyanza,Wheat,B,0.00
+Nyanza,Chia seeds,B,578.07
+Nyanza,Other Cereals,B,915.30
+Nyanza,Cassava,B,17096.06
+Nyanza,Sweet potatoes,B,9486.85
+Nyanza,Irish potatoes,B,3137.57
+Nyanza,Yams & Taro,B,4120.11
+Nyanza,Bananas,B,9699.55
+Nyanza,Cooking Banana,B,12270.23
+Nyanza,Dessert banana,B,8953.22
+Nyanza,Banana for beer,B,9219.03
+Nyanza,Beans,B,626.26
+Nyanza,Bush bean,B,583.55
+Nyanza,Climbing bean,B,806.78
+Nyanza,Peas,B,527.95
+Nyanza,Ground nuts,B,334.48
+Nyanza,Soya beans,B,502.16
+Nyanza,Vegetables,B,10798.07
+Nyanza,Fruits,B,3708.64
+Nyanza,Fodder crops,B,16840.63
+Nyanza,Other crops,B,1616.39
+Nyanza,Tubers and Roots,C,5165.19
+Nyanza,Sweet potatoes,C,5277.09
+Nyanza,Irish potatoes,C,2903.61
+Nyanza,Bean,C,1023.84
+Nyanza,Bush bean,C,979.68
+Nyanza,Climbing bean,C,1508.04
+Nyanza,Peas,C,1083.22
+Nyanza,Soya beans,C,1026.75
+Nyanza,Vegetables,C,11285.21
+Nyarugenge,Maize,A,935.52
+Nyarugenge,Sorghum,A,0.00
+Nyarugenge,Paddy rice,A,0.00
+Nyarugenge,Wheat,A,0.00
+Nyarugenge,Other cereals,A,0.00
+Nyarugenge,Cassava,A,9287.63
+Nyarugenge,Sweet potato,A,5712.23
+Nyarugenge,Irish potato,A,2438.79
+Nyarugenge,Yams & Taro,A,7688.96
+Nyarugenge,Bananas,A,10644.23
+Nyarugenge,Cooking banana,A,10881.03
+Nyarugenge,Dessert banana,A,9795.10
+Nyarugenge,Banana for beer,A,10827.62
+Nyarugenge,Bean,A,727.40
+Nyarugenge,Bush bean,A,728.02
+Nyarugenge,Climbing bean,A,684.92
+Nyarugenge,Pea,A,0.00
+Nyarugenge,Groundnuts,A,203.96
+Nyarugenge,Soybean,A,692.25
+Nyarugenge,vegetables,A,6777.56
+Nyarugenge,Fruits,A,8506.90
+Nyarugenge,Fodder crops,A,10279.74
+Nyarugenge,Other crops,A,37278.60
+Nyarugenge,Maize,B,1001.21
+Nyarugenge,Sorghum,B,736.34
+Nyarugenge,Paddy rice,B,0.00
+Nyarugenge,Wheat,B,0.00
+Nyarugenge,Chia seeds,B,76.72
+Nyarugenge,Other Cereals,B,0.00
+Nyarugenge,Cassava,B,12539.53
+Nyarugenge,Sweet potatoes,B,4869.94
+Nyarugenge,Irish potatoes,B,3011.54
+Nyarugenge,Yams & Taro,B,7491.83
+Nyarugenge,Bananas,B,10513.01
+Nyarugenge,Cooking Banana,B,18769.40
+Nyarugenge,Dessert banana,B,8549.35
+Nyarugenge,Banana for beer,B,9134.67
+Nyarugenge,Beans,B,746.46
+Nyarugenge,Bush bean,B,743.14
+Nyarugenge,Climbing bean,B,860.41
+Nyarugenge,Peas,B,0.00
+Nyarugenge,Ground nuts,B,395.72
+Nyarugenge,Soya beans,B,596.93
+Nyarugenge,Vegetables,B,6569.11
+Nyarugenge,Fruits,B,16369.82
+Nyarugenge,Fodder crops,B,6176.64
+Nyarugenge,Other crops,B,7694.08
+Nyarugenge,Tubers and Roots,C,0.00
+Nyarugenge,Sweet potatoes,C,4646.01
+Nyarugenge,Irish potatoes,C,11540.47
+Nyarugenge,Bean,C,756.64
+Nyarugenge,Bush bean,C,756.64
+Nyarugenge,Climbing bean,C,0.00
+Nyarugenge,Peas,C,0.00
+Nyarugenge,Soya beans,C,809.53
+Nyarugenge,Vegetables,C,12838.09
+Nyaruguru,Maize,A,1930.20
+Nyaruguru,Sorghum,A,0.00
+Nyaruguru,Paddy rice,A,0.00
+Nyaruguru,Wheat,A,0.00
+Nyaruguru,Other cereals,A,312.76
+Nyaruguru,Cassava,A,10391.57
+Nyaruguru,Sweet potato,A,10019.26
+Nyaruguru,Irish potato,A,5305.39
+Nyaruguru,Yams & Taro,A,7373.62
+Nyaruguru,Bananas,A,10473.75
+Nyaruguru,Cooking banana,A,11412.54
+Nyaruguru,Dessert banana,A,9001.42
+Nyaruguru,Banana for beer,A,10414.11
+Nyaruguru,Bean,A,588.94
+Nyaruguru,Bush bean,A,555.27
+Nyaruguru,Climbing bean,A,597.43
+Nyaruguru,Pea,A,889.68
+Nyaruguru,Groundnuts,A,0.00
+Nyaruguru,Soybean,A,405.56
+Nyaruguru,vegetables,A,7836.02
+Nyaruguru,Fruits,A,5759.49
+Nyaruguru,Fodder crops,A,3201.19
+Nyaruguru,Other crops,A,552.65
+Nyaruguru,Maize,B,1621.70
+Nyaruguru,Sorghum,B,600.97
+Nyaruguru,Paddy rice,B,0.00
+Nyaruguru,Wheat,B,872.81
+Nyaruguru,Chia seeds,B,723.14
+Nyaruguru,Other Cereals,B,0.00
+Nyaruguru,Cassava,B,15230.47
+Nyaruguru,Sweet potatoes,B,8085.35
+Nyaruguru,Irish potatoes,B,5785.82
+Nyaruguru,Yams & Taro,B,10297.72
+Nyaruguru,Bananas,B,10076.79
+Nyaruguru,Cooking Banana,B,15006.96
+Nyaruguru,Dessert banana,B,8175.20
+Nyaruguru,Banana for beer,B,8490.47
+Nyaruguru,Beans,B,663.20
+Nyaruguru,Bush bean,B,507.95
+Nyaruguru,Climbing bean,B,698.52
+Nyaruguru,Peas,B,940.84
+Nyaruguru,Ground nuts,B,181.89
+Nyaruguru,Soya beans,B,523.06
+Nyaruguru,Vegetables,B,9248.30
+Nyaruguru,Fruits,B,3078.35
+Nyaruguru,Fodder crops,B,12029.37
+Nyaruguru,Other crops,B,1513.86
+Nyaruguru,Tubers and Roots,C,5991.30
+Nyaruguru,Sweet potatoes,C,4992.50
+Nyaruguru,Irish potatoes,C,7635.48
+Nyaruguru,Bean,C,1071.82
+Nyaruguru,Bush bean,C,1075.37
+Nyaruguru,Climbing bean,C,308.18
+Nyaruguru,Peas,C,1620.15
+Nyaruguru,Soya beans,C,0.00
+Nyaruguru,Vegetables,C,10206.20
+Rubavu,Maize,A,1672.43
+Rubavu,Sorghum,A,918.92
+Rubavu,Paddy rice,A,0.00
+Rubavu,Wheat,A,0.00
+Rubavu,Other cereals,A,0.00
+Rubavu,Cassava,A,0.00
+Rubavu,Sweet potato,A,8010.07
+Rubavu,Irish potato,A,12114.10
+Rubavu,Yams & Taro,A,5291.85
+Rubavu,Bananas,A,10801.71
+Rubavu,Cooking banana,A,10524.54
+Rubavu,Dessert banana,A,6119.15
+Rubavu,Banana for beer,A,11885.47
+Rubavu,Bean,A,773.32
+Rubavu,Bush bean,A,474.59
+Rubavu,Climbing bean,A,803.24
+Rubavu,Pea,A,479.55
+Rubavu,Groundnuts,A,0.00
+Rubavu,Soybean,A,964.84
+Rubavu,vegetables,A,8084.27
+Rubavu,Fruits,A,2711.66
+Rubavu,Fodder crops,A,642.38
+Rubavu,Other crops,A,14049.86
+Rubavu,Maize,B,1641.00
+Rubavu,Sorghum,B,1170.88
+Rubavu,Paddy rice,B,0.00
+Rubavu,Wheat,B,0.00
+Rubavu,Chia seeds,B,0.00
+Rubavu,Other Cereals,B,0.00
+Rubavu,Cassava,B,12700.11
+Rubavu,Sweet potatoes,B,6521.23
+Rubavu,Irish potatoes,B,8043.22
+Rubavu,Yams & Taro,B,5963.83
+Rubavu,Bananas,B,12641.61
+Rubavu,Cooking Banana,B,17833.17
+Rubavu,Dessert banana,B,12709.73
+Rubavu,Banana for beer,B,11015.31
+Rubavu,Beans,B,818.52
+Rubavu,Bush bean,B,515.45
+Rubavu,Climbing bean,B,879.54
+Rubavu,Peas,B,892.65
+Rubavu,Ground nuts,B,0.00
+Rubavu,Soya beans,B,930.13
+Rubavu,Vegetables,B,13647.93
+Rubavu,Fruits,B,3449.17
+Rubavu,Fodder crops,B,13031.88
+Rubavu,Other crops,B,11465.48
+Rubavu,Tubers and Roots,C,11683.32
+Rubavu,Sweet potatoes,C,4817.79
+Rubavu,Irish potatoes,C,12106.08
+Rubavu,Bean,C,902.21
+Rubavu,Bush bean,C,902.21
+Rubavu,Climbing bean,C,0.00
+Rubavu,Peas,C,504.55
+Rubavu,Soya beans,C,0.00
+Rubavu,Vegetables,C,8719.37
+Ruhango,Maize,A,1354.70
+Ruhango,Sorghum,A,351.98
+Ruhango,Paddy rice,A,4944.69
+Ruhango,Wheat,A,0.00
+Ruhango,Other cereals,A,491.04
+Ruhango,Cassava,A,20933.25
+Ruhango,Sweet potato,A,6831.11
+Ruhango,Irish potato,A,3360.31
+Ruhango,Yams & Taro,A,3697.36
+Ruhango,Bananas,A,8791.14
+Ruhango,Cooking banana,A,9036.84
+Ruhango,Dessert banana,A,6844.82
+Ruhango,Banana for beer,A,9173.92
+Ruhango,Bean,A,664.96
+Ruhango,Bush bean,A,658.07
+Ruhango,Climbing bean,A,683.20
+Ruhango,Pea,A,724.24
+Ruhango,Groundnuts,A,265.61
+Ruhango,Soybean,A,443.64
+Ruhango,vegetables,A,6227.32
+Ruhango,Fruits,A,4353.44
+Ruhango,Fodder crops,A,12039.98
+Ruhango,Other crops,A,1151.41
+Ruhango,Maize,B,1269.08
+Ruhango,Sorghum,B,800.17
+Ruhango,Paddy rice,B,3538.34
+Ruhango,Wheat,B,0.00
+Ruhango,Chia seeds,B,0.00
+Ruhango,Other Cereals,B,774.22
+Ruhango,Cassava,B,17518.94
+Ruhango,Sweet potatoes,B,4146.20
+Ruhango,Irish potatoes,B,2958.34
+Ruhango,Yams & Taro,B,7297.01
+Ruhango,Bananas,B,9040.42
+Ruhango,Cooking Banana,B,17637.39
+Ruhango,Dessert banana,B,12426.25
+Ruhango,Banana for beer,B,7855.08
+Ruhango,Beans,B,663.14
+Ruhango,Bush bean,B,681.56
+Ruhango,Climbing bean,B,629.06
+Ruhango,Peas,B,1139.42
+Ruhango,Ground nuts,B,548.48
+Ruhango,Soya beans,B,677.05
+Ruhango,Vegetables,B,8016.17
+Ruhango,Fruits,B,6010.62
+Ruhango,Fodder crops,B,6947.55
+Ruhango,Other crops,B,10277.54
+Ruhango,Tubers and Roots,C,7831.43
+Ruhango,Sweet potatoes,C,7966.17
+Ruhango,Irish potatoes,C,3975.30
+Ruhango,Bean,C,1164.99
+Ruhango,Bush bean,C,1159.13
+Ruhango,Climbing bean,C,1998.77
+Ruhango,Peas,C,648.46
+Ruhango,Soya beans,C,799.58
+Ruhango,Vegetables,C,12672.69
+Rulindo,Maize,A,1442.82
+Rulindo,Sorghum,A,0.00
+Rulindo,Paddy rice,A,3856.57
+Rulindo,Wheat,A,1265.17
+Rulindo,Other cereals,A,106.77
+Rulindo,Cassava,A,12206.73
+Rulindo,Sweet potato,A,6641.22
+Rulindo,Irish potato,A,4579.76
+Rulindo,Yams & Taro,A,4644.33
+Rulindo,Bananas,A,9787.84
+Rulindo,Cooking banana,A,11216.66
+Rulindo,Dessert banana,A,8771.69
+Rulindo,Banana for beer,A,9305.33
+Rulindo,Bean,A,560.93
+Rulindo,Bush bean,A,503.22
+Rulindo,Climbing bean,A,616.44
+Rulindo,Pea,A,681.99
+Rulindo,Groundnuts,A,436.42
+Rulindo,Soybean,A,592.75
+Rulindo,vegetables,A,10669.77
+Rulindo,Fruits,A,6534.94
+Rulindo,Fodder crops,A,9961.49
+Rulindo,Other crops,A,18973.53
+Rulindo,Maize,B,1163.82
+Rulindo,Sorghum,B,1127.63
+Rulindo,Paddy rice,B,3894.25
+Rulindo,Wheat,B,1530.22
+Rulindo,Chia seeds,B,0.00
+Rulindo,Other Cereals,B,944.94
+Rulindo,Cassava,B,15609.09
+Rulindo,Sweet potatoes,B,7193.92
+Rulindo,Irish potatoes,B,4814.33
+Rulindo,Yams & Taro,B,6781.69
+Rulindo,Bananas,B,12592.79
+Rulindo,Cooking Banana,B,19065.63
+Rulindo,Dessert banana,B,13230.29
+Rulindo,Banana for beer,B,9984.58
+Rulindo,Beans,B,913.78
+Rulindo,Bush bean,B,701.68
+Rulindo,Climbing bean,B,1078.29
+Rulindo,Peas,B,642.13
+Rulindo,Ground nuts,B,439.40
+Rulindo,Soya beans,B,665.71
+Rulindo,Vegetables,B,10186.50
+Rulindo,Fruits,B,6814.05
+Rulindo,Fodder crops,B,24453.73
+Rulindo,Other crops,B,6956.72
+Rulindo,Tubers and Roots,C,6144.06
+Rulindo,Sweet potatoes,C,5087.85
+Rulindo,Irish potatoes,C,6460.18
+Rulindo,Bean,C,1205.58
+Rulindo,Bush bean,C,1205.58
+Rulindo,Climbing bean,C,0.00
+Rulindo,Peas,C,0.00
+Rulindo,Soya beans,C,0.00
+Rulindo,Vegetables,C,12093.94
+Rusizi,Maize,A,1547.95
+Rusizi,Sorghum,A,470.01
+Rusizi,Paddy rice,A,4316.21
+Rusizi,Wheat,A,0.00
+Rusizi,Other cereals,A,0.00
+Rusizi,Cassava,A,11044.15
+Rusizi,Sweet potato,A,6486.33
+Rusizi,Irish potato,A,3903.90
+Rusizi,Yams & Taro,A,6924.05
+Rusizi,Bananas,A,9203.03
+Rusizi,Cooking banana,A,8186.96
+Rusizi,Dessert banana,A,7472.90
+Rusizi,Banana for beer,A,10065.79
+Rusizi,Bean,A,665.06
+Rusizi,Bush bean,A,677.62
+Rusizi,Climbing bean,A,619.76
+Rusizi,Pea,A,901.33
+Rusizi,Groundnuts,A,553.18
+Rusizi,Soybean,A,614.17
+Rusizi,vegetables,A,9460.21
+Rusizi,Fruits,A,9468.38
+Rusizi,Fodder crops,A,7729.63
+Rusizi,Other crops,A,3607.68
+Rusizi,Maize,B,1081.58
+Rusizi,Sorghum,B,685.70
+Rusizi,Paddy rice,B,5228.23
+Rusizi,Wheat,B,0.00
+Rusizi,Chia seeds,B,113.33
+Rusizi,Other Cereals,B,0.00
+Rusizi,Cassava,B,9504.19
+Rusizi,Sweet potatoes,B,8754.48
+Rusizi,Irish potatoes,B,6502.15
+Rusizi,Yams & Taro,B,7587.15
+Rusizi,Bananas,B,13053.17
+Rusizi,Cooking Banana,B,19128.35
+Rusizi,Dessert banana,B,14798.30
+Rusizi,Banana for beer,B,9427.62
+Rusizi,Beans,B,866.69
+Rusizi,Bush bean,B,796.76
+Rusizi,Climbing bean,B,1021.67
+Rusizi,Peas,B,573.55
+Rusizi,Ground nuts,B,373.48
+Rusizi,Soya beans,B,556.98
+Rusizi,Vegetables,B,7419.32
+Rusizi,Fruits,B,5080.71
+Rusizi,Fodder crops,B,8914.00
+Rusizi,Other crops,B,3640.65
+Rusizi,Tubers and Roots,C,7595.49
+Rusizi,Sweet potatoes,C,8962.09
+Rusizi,Irish potatoes,C,6013.94
+Rusizi,Bean,C,1431.87
+Rusizi,Bush bean,C,1431.87
+Rusizi,Climbing bean,C,0.00
+Rusizi,Peas,C,0.00
+Rusizi,Soya beans,C,1514.39
+Rusizi,Vegetables,C,12983.37
+Rutsiro,Maize,A,1488.26
+Rutsiro,Sorghum,A,0.00
+Rutsiro,Paddy rice,A,0.00
+Rutsiro,Wheat,A,601.28
+Rutsiro,Other cereals,A,0.00
+Rutsiro,Cassava,A,12051.64
+Rutsiro,Sweet potato,A,7659.35
+Rutsiro,Irish potato,A,9166.85
+Rutsiro,Yams & Taro,A,7979.44
+Rutsiro,Bananas,A,11170.53
+Rutsiro,Cooking banana,A,12142.65
+Rutsiro,Dessert banana,A,7771.96
+Rutsiro,Banana for beer,A,11510.21
+Rutsiro,Bean,A,940.00
+Rutsiro,Bush bean,A,473.90
+Rutsiro,Climbing bean,A,1016.67
+Rutsiro,Pea,A,702.20
+Rutsiro,Groundnuts,A,0.00
+Rutsiro,Soybean,A,811.38
+Rutsiro,vegetables,A,11207.85
+Rutsiro,Fruits,A,9678.81
+Rutsiro,Fodder crops,A,28312.23
+Rutsiro,Other crops,A,4556.04
+Rutsiro,Maize,B,1451.19
+Rutsiro,Sorghum,B,930.21
+Rutsiro,Paddy rice,B,0.00
+Rutsiro,Wheat,B,478.55
+Rutsiro,Chia seeds,B,0.00
+Rutsiro,Other Cereals,B,549.57
+Rutsiro,Cassava,B,14889.46
+Rutsiro,Sweet potatoes,B,7068.74
+Rutsiro,Irish potatoes,B,4084.35
+Rutsiro,Yams & Taro,B,8497.44
+Rutsiro,Bananas,B,12955.07
+Rutsiro,Cooking Banana,B,21548.49
+Rutsiro,Dessert banana,B,15190.95
+Rutsiro,Banana for beer,B,9563.87
+Rutsiro,Beans,B,845.55
+Rutsiro,Bush bean,B,645.05
+Rutsiro,Climbing bean,B,878.07
+Rutsiro,Peas,B,691.53
+Rutsiro,Ground nuts,B,0.00
+Rutsiro,Soya beans,B,481.28
+Rutsiro,Vegetables,B,10260.58
+Rutsiro,Fruits,B,7300.73
+Rutsiro,Fodder crops,B,13642.46
+Rutsiro,Other crops,B,6784.85
+Rutsiro,Tubers and Roots,C,9912.75
+Rutsiro,Sweet potatoes,C,6421.75
+Rutsiro,Irish potatoes,C,13780.62
+Rutsiro,Bean,C,0.00
+Rutsiro,Bush bean,C,0.00
+Rutsiro,Climbing bean,C,0.00
+Rutsiro,Peas,C,309.48
+Rutsiro,Soya beans,C,0.00
+Rutsiro,Vegetables,C,8591.65
+Rwamagana,Maize,A,1433.64
+Rwamagana,Sorghum,A,0.00
+Rwamagana,Paddy rice,A,3562.00
+Rwamagana,Wheat,A,0.00
+Rwamagana,Other cereals,A,375.15
+Rwamagana,Cassava,A,18585.96
+Rwamagana,Sweet potato,A,6919.43
+Rwamagana,Irish potato,A,6023.64
+Rwamagana,Yams & Taro,A,3026.37
+Rwamagana,Bananas,A,13228.71
+Rwamagana,Cooking banana,A,16733.18
+Rwamagana,Dessert banana,A,8068.00
+Rwamagana,Banana for beer,A,8824.81
+Rwamagana,Bean,A,588.77
+Rwamagana,Bush bean,A,583.18
+Rwamagana,Climbing bean,A,814.22
+Rwamagana,Pea,A,632.87
+Rwamagana,Groundnuts,A,225.68
+Rwamagana,Soybean,A,354.95
+Rwamagana,vegetables,A,5092.72
+Rwamagana,Fruits,A,2749.30
+Rwamagana,Fodder crops,A,16352.13
+Rwamagana,Other crops,A,124563.48
+Rwamagana,Maize,B,865.14
+Rwamagana,Sorghum,B,1197.26
+Rwamagana,Paddy rice,B,4887.29
+Rwamagana,Wheat,B,0.00
+Rwamagana,Chia seeds,B,461.32
+Rwamagana,Other Cereals,B,832.61
+Rwamagana,Cassava,B,17896.76
+Rwamagana,Sweet potatoes,B,4936.72
+Rwamagana,Irish potatoes,B,3846.94
+Rwamagana,Yams & Taro,B,6677.04
+Rwamagana,Bananas,B,14582.69
+Rwamagana,Cooking Banana,B,17868.83
+Rwamagana,Dessert banana,B,9635.06
+Rwamagana,Banana for beer,B,7890.61
+Rwamagana,Beans,B,627.04
+Rwamagana,Bush bean,B,614.84
+Rwamagana,Climbing bean,B,1013.27
+Rwamagana,Peas,B,288.52
+Rwamagana,Ground nuts,B,384.34
+Rwamagana,Soya beans,B,433.89
+Rwamagana,Vegetables,B,9917.03
+Rwamagana,Fruits,B,6232.27
+Rwamagana,Fodder crops,B,8870.64
+Rwamagana,Other crops,B,1731.77
+Rwamagana,Tubers and Roots,C,4187.90
+Rwamagana,Sweet potatoes,C,4259.58
+Rwamagana,Irish potatoes,C,3949.01
+Rwamagana,Bean,C,961.05
+Rwamagana,Bush bean,C,961.30
+Rwamagana,Climbing bean,C,0.00
+Rwamagana,Peas,C,0.00
+Rwamagana,Soya beans,C,438.85
+Rwamagana,Vegetables,C,10119.80
